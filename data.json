@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-16 17:30:52",
+ "built": "2026-11-16 17:31:14",
  "date": "16 نوفمبر 2026",
  "pub": [
   {
@@ -186,6 +186,21 @@
  ],
  "soon": [
   {
+   "code": "akan",
+   "ar": "الأكانية",
+   "native": "Akan",
+   "handle": "@mokhtasr_ak",
+   "dir": "ltr",
+   "iso": "ak",
+   "kind": "silent",
+   "n": 0,
+   "playlist": null,
+   "fatiha": null,
+   "intro": null,
+   "thumb": null,
+   "ready": true
+  },
+  {
    "code": "german",
    "ar": "الألمانية",
    "native": "Deutsch",
@@ -208,6 +223,36 @@
    "dir": "ltr",
    "iso": "am",
    "kind": "tts",
+   "n": 0,
+   "playlist": null,
+   "fatiha": null,
+   "intro": null,
+   "thumb": null,
+   "ready": true
+  },
+  {
+   "code": "uzbek",
+   "ar": "الأوزبكية",
+   "native": "O‘zbekcha",
+   "handle": "@mokhtasr_uz",
+   "dir": "ltr",
+   "iso": "uz",
+   "kind": "tts",
+   "n": 0,
+   "playlist": null,
+   "fatiha": null,
+   "intro": null,
+   "thumb": null,
+   "ready": true
+  },
+  {
+   "code": "uyghur",
+   "ar": "الأويغورية",
+   "native": "ئۇيغۇرچە",
+   "handle": "@mokhtasr_ug",
+   "dir": "rtl",
+   "iso": "ug",
+   "kind": "silent",
    "n": 0,
    "playlist": null,
    "fatiha": null,
@@ -396,6 +441,21 @@
    "ready": true
   },
   {
+   "code": "tajik",
+   "ar": "الطاجيكية",
+   "native": "Тоҷикӣ",
+   "handle": "@mokhtasr_tg",
+   "dir": "ltr",
+   "iso": "tg",
+   "kind": "silent",
+   "n": 0,
+   "playlist": null,
+   "fatiha": null,
+   "intro": null,
+   "thumb": null,
+   "ready": true
+  },
+  {
    "code": "filipino",
    "ar": "الفلبينية",
    "native": "Filipino",
@@ -411,6 +471,21 @@
    "ready": true
   },
   {
+   "code": "kurdish",
+   "ar": "الكردية",
+   "native": "کوردی",
+   "handle": "@mokhtasr_ku",
+   "dir": "rtl",
+   "iso": "ku",
+   "kind": "silent",
+   "n": 0,
+   "playlist": null,
+   "fatiha": null,
+   "intro": null,
+   "thumb": null,
+   "ready": true
+  },
+  {
    "code": "korean",
    "ar": "الكورية",
    "native": "한국어",
@@ -418,6 +493,21 @@
    "dir": "ltr",
    "iso": "ko",
    "kind": "tts",
+   "n": 0,
+   "playlist": null,
+   "fatiha": null,
+   "intro": null,
+   "thumb": null,
+   "ready": true
+  },
+  {
+   "code": "malagasy",
+   "ar": "الملغاشية",
+   "native": "Malagasy",
+   "handle": "@mokhtasr_mg",
+   "dir": "ltr",
+   "iso": "mg",
+   "kind": "silent",
    "n": 0,
    "playlist": null,
    "fatiha": null,
@@ -486,96 +576,6 @@
    "ready": true
   },
   {
-   "code": "akan",
-   "ar": "الأكانية",
-   "native": "Akan",
-   "handle": "@mokhtasr_ak",
-   "dir": "ltr",
-   "iso": "ak",
-   "kind": "silent",
-   "n": 0,
-   "playlist": null,
-   "fatiha": null,
-   "intro": null,
-   "thumb": null,
-   "ready": false
-  },
-  {
-   "code": "uzbek",
-   "ar": "الأوزبكية",
-   "native": "O‘zbekcha",
-   "handle": "@mokhtasr_uz",
-   "dir": "ltr",
-   "iso": "uz",
-   "kind": "hold",
-   "n": 0,
-   "playlist": null,
-   "fatiha": null,
-   "intro": null,
-   "thumb": null,
-   "ready": false
-  },
-  {
-   "code": "uyghur",
-   "ar": "الأويغورية",
-   "native": "ئۇيغۇرچە",
-   "handle": "@mokhtasr_ug",
-   "dir": "rtl",
-   "iso": "ug",
-   "kind": "silent",
-   "n": 0,
-   "playlist": null,
-   "fatiha": null,
-   "intro": null,
-   "thumb": null,
-   "ready": false
-  },
-  {
-   "code": "tajik",
-   "ar": "الطاجيكية",
-   "native": "Тоҷикӣ",
-   "handle": "@mokhtasr_tg",
-   "dir": "ltr",
-   "iso": "tg",
-   "kind": "silent",
-   "n": 0,
-   "playlist": null,
-   "fatiha": null,
-   "intro": null,
-   "thumb": null,
-   "ready": false
-  },
-  {
-   "code": "kurdish",
-   "ar": "الكردية",
-   "native": "کوردی",
-   "handle": "@mokhtasr_ku",
-   "dir": "rtl",
-   "iso": "ku",
-   "kind": "silent",
-   "n": 0,
-   "playlist": null,
-   "fatiha": null,
-   "intro": null,
-   "thumb": null,
-   "ready": false
-  },
-  {
-   "code": "malagasy",
-   "ar": "الملغاشية",
-   "native": "Malagasy",
-   "handle": "@mokhtasr_mg",
-   "dir": "ltr",
-   "iso": "mg",
-   "kind": "silent",
-   "n": 0,
-   "playlist": null,
-   "fatiha": null,
-   "intro": null,
-   "thumb": null,
-   "ready": false
-  },
-  {
    "code": "yoruba",
    "ar": "اليوربا",
    "native": "Yorùbá",
@@ -588,7 +588,7 @@
    "fatiha": null,
    "intro": null,
    "thumb": null,
-   "ready": false
+   "ready": true
   }
  ]
 }
