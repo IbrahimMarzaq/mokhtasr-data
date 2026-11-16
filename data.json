@@ -1,7 +1,7 @@
 {
  "v": 1,
- "built": "2026-11-14 23:47:49",
- "date": "14 نوفمبر 2026",
+ "built": "2026-11-16 17:30:52",
+ "date": "16 نوفمبر 2026",
  "pub": [
   {
    "code": "urdu",
@@ -133,9 +133,24 @@
    "kind": "tts",
    "n": 8,
    "playlist": "PLeXic_c8si90",
-   "fatiha": "MY76RCTbAvE",
+   "fatiha": "UYiKJ8fBd-k",
    "intro": "C6D17EE5Jxc",
-   "thumb": "MY76RCTbAvE",
+   "thumb": "UYiKJ8fBd-k",
+   "ready": true
+  },
+  {
+   "code": "persian",
+   "ar": "الفارسية",
+   "native": "فارسی",
+   "handle": "@mokhtasr_fa",
+   "dir": "rtl",
+   "iso": "fa",
+   "kind": "tts",
+   "n": 8,
+   "playlist": "PLJ5HfAzlqzZU",
+   "fatiha": "f-rRdpvLFXQ",
+   "intro": "1D9mbpnob0s",
+   "thumb": "f-rRdpvLFXQ",
    "ready": true
   },
   {
@@ -372,21 +387,6 @@
    "handle": "@mokhtasr_zh",
    "dir": "ltr",
    "iso": "zh",
-   "kind": "tts",
-   "n": 0,
-   "playlist": null,
-   "fatiha": null,
-   "intro": null,
-   "thumb": null,
-   "ready": true
-  },
-  {
-   "code": "persian",
-   "ar": "الفارسية",
-   "native": "فارسی",
-   "handle": "@mokhtasr_fa",
-   "dir": "rtl",
-   "iso": "fa",
    "kind": "tts",
    "n": 0,
    "playlist": null,
