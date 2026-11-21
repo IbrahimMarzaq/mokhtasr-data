@@ -1,8 +1,23 @@
 {
  "v": 1,
- "built": "2026-11-21 06:18:57",
+ "built": "2026-11-21 06:23:05",
  "date": "21 نوفمبر 2026",
  "pub": [
+  {
+   "code": "kyrgyz",
+   "ar": "القرغيزية",
+   "native": "Кыргызча",
+   "handle": "@mokhtasr_ky",
+   "dir": "ltr",
+   "iso": "ky",
+   "kind": "dar",
+   "n": 16,
+   "playlist": "PLdQiNGPEvRkE",
+   "fatiha": "BOz3G-1tUKc",
+   "intro": "8sUfIO-16Xs",
+   "thumb": "BOz3G-1tUKc",
+   "ready": true
+  },
   {
    "code": "arabic",
    "ar": "العربية",
@@ -11,7 +26,7 @@
    "dir": "rtl",
    "iso": "ar",
    "kind": "dar",
-   "n": 13,
+   "n": 14,
    "playlist": "PLE5ZpTGuw7Yg",
    "fatiha": "in9DBmRnKUY",
    "intro": "Il1tgFYrj1w",
@@ -46,21 +61,6 @@
    "fatiha": "MGzcWkwP4dg",
    "intro": "pxmV4FPC424",
    "thumb": "MGzcWkwP4dg",
-   "ready": true
-  },
-  {
-   "code": "kyrgyz",
-   "ar": "القرغيزية",
-   "native": "Кыргызча",
-   "handle": "@mokhtasr_ky",
-   "dir": "ltr",
-   "iso": "ky",
-   "kind": "dar",
-   "n": 12,
-   "playlist": "PLdQiNGPEvRkE",
-   "fatiha": "BOz3G-1tUKc",
-   "intro": "8sUfIO-16Xs",
-   "thumb": "BOz3G-1tUKc",
    "ready": true
   },
   {
@@ -154,6 +154,21 @@
    "ready": true
   },
   {
+   "code": "amharic",
+   "ar": "الأمهرية",
+   "native": "አማርኛ",
+   "handle": "@mokhtasr_am",
+   "dir": "ltr",
+   "iso": "am",
+   "kind": "tts",
+   "n": 6,
+   "playlist": "PLOE9IEvq_0o0",
+   "fatiha": "OZeNk4hFJjc",
+   "intro": "P_YY5Grc3OQ",
+   "thumb": "OZeNk4hFJjc",
+   "ready": true
+  },
+  {
    "code": "english",
    "ar": "الإنجليزية",
    "native": "English",
@@ -181,21 +196,6 @@
    "fatiha": "GrW3p2BaA_M",
    "intro": "sMk3-un0Eqk",
    "thumb": "GrW3p2BaA_M",
-   "ready": true
-  },
-  {
-   "code": "amharic",
-   "ar": "الأمهرية",
-   "native": "አማርኛ",
-   "handle": "@mokhtasr_am",
-   "dir": "ltr",
-   "iso": "am",
-   "kind": "tts",
-   "n": 5,
-   "playlist": "PLOE9IEvq_0o0",
-   "fatiha": "OZeNk4hFJjc",
-   "intro": "P_YY5Grc3OQ",
-   "thumb": "OZeNk4hFJjc",
    "ready": true
   },
   {
@@ -652,6 +652,6 @@
  "soon": [],
  "extra": {
   "portal": 1,
-  "arabic_asmari": 5
+  "arabic_asmari": 6
  }
 }
