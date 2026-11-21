@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-21 07:43:20",
+ "built": "2026-11-21 07:49:23",
  "date": "21 نوفمبر 2026",
  "pub": [
   {
@@ -31,6 +31,21 @@
    "fatiha": "BOz3G-1tUKc",
    "intro": "8sUfIO-16Xs",
    "thumb": "BOz3G-1tUKc",
+   "ready": true
+  },
+  {
+   "code": "urdu",
+   "ar": "الأردية",
+   "native": "اردو",
+   "handle": "@mokhtasr_ur",
+   "dir": "rtl",
+   "iso": "ur",
+   "kind": "dar",
+   "n": 16,
+   "playlist": "PLL1zhhkKQzs0",
+   "fatiha": "duiilMWiURs",
+   "intro": "QJ9DGQvnvc4",
+   "thumb": "duiilMWiURs",
    "ready": true
   },
   {
@@ -136,21 +151,6 @@
    "fatiha": "E5fVZUMV0iA",
    "intro": "3w9IyQO_Hxo",
    "thumb": "E5fVZUMV0iA",
-   "ready": true
-  },
-  {
-   "code": "urdu",
-   "ar": "الأردية",
-   "native": "اردو",
-   "handle": "@mokhtasr_ur",
-   "dir": "rtl",
-   "iso": "ur",
-   "kind": "dar",
-   "n": 10,
-   "playlist": "PLL1zhhkKQzs0",
-   "fatiha": "duiilMWiURs",
-   "intro": "QJ9DGQvnvc4",
-   "thumb": "duiilMWiURs",
    "ready": true
   },
   {
