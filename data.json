@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-21 06:34:14",
+ "built": "2026-11-21 06:37:45",
  "date": "21 نوفمبر 2026",
  "pub": [
   {
@@ -11,7 +11,7 @@
    "dir": "rtl",
    "iso": "ar",
    "kind": "dar",
-   "n": 17,
+   "n": 18,
    "playlist": "PLE5ZpTGuw7Yg",
    "fatiha": "in9DBmRnKUY",
    "intro": "Il1tgFYrj1w",
@@ -139,6 +139,21 @@
    "ready": true
   },
   {
+   "code": "amharic",
+   "ar": "الأمهرية",
+   "native": "አማርኛ",
+   "handle": "@mokhtasr_am",
+   "dir": "ltr",
+   "iso": "am",
+   "kind": "tts",
+   "n": 10,
+   "playlist": "PLOE9IEvq_0o0",
+   "fatiha": "OZeNk4hFJjc",
+   "intro": "P_YY5Grc3OQ",
+   "thumb": "OZeNk4hFJjc",
+   "ready": true
+  },
+  {
    "code": "russian",
    "ar": "الروسية",
    "native": "Русский",
@@ -151,21 +166,6 @@
    "fatiha": "UYiKJ8fBd-k",
    "intro": "C6D17EE5Jxc",
    "thumb": "UYiKJ8fBd-k",
-   "ready": true
-  },
-  {
-   "code": "amharic",
-   "ar": "الأمهرية",
-   "native": "አማርኛ",
-   "handle": "@mokhtasr_am",
-   "dir": "ltr",
-   "iso": "am",
-   "kind": "tts",
-   "n": 9,
-   "playlist": "PLOE9IEvq_0o0",
-   "fatiha": "OZeNk4hFJjc",
-   "intro": "P_YY5Grc3OQ",
-   "thumb": "OZeNk4hFJjc",
    "ready": true
   },
   {
@@ -652,6 +652,6 @@
  "soon": [],
  "extra": {
   "portal": 1,
-  "arabic_asmari": 9
+  "arabic_asmari": 10
  }
 }
