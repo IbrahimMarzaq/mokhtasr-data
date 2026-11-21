@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-21 06:30:13",
+ "built": "2026-11-21 06:34:14",
  "date": "21 نوفمبر 2026",
  "pub": [
   {
@@ -11,7 +11,7 @@
    "dir": "rtl",
    "iso": "ar",
    "kind": "dar",
-   "n": 16,
+   "n": 17,
    "playlist": "PLE5ZpTGuw7Yg",
    "fatiha": "in9DBmRnKUY",
    "intro": "Il1tgFYrj1w",
@@ -161,7 +161,7 @@
    "dir": "ltr",
    "iso": "am",
    "kind": "tts",
-   "n": 8,
+   "n": 9,
    "playlist": "PLOE9IEvq_0o0",
    "fatiha": "OZeNk4hFJjc",
    "intro": "P_YY5Grc3OQ",
@@ -652,6 +652,6 @@
  "soon": [],
  "extra": {
   "portal": 1,
-  "arabic_asmari": 8
+  "arabic_asmari": 9
  }
 }
