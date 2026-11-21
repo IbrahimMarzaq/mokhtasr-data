@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-21 07:27:13",
+ "built": "2026-11-21 07:43:20",
  "date": "21 نوفمبر 2026",
  "pub": [
   {
@@ -176,7 +176,7 @@
    "dir": "ltr",
    "iso": "en",
    "kind": "dar",
-   "n": 6,
+   "n": 7,
    "playlist": "PLDYJqpiT6JFU",
    "fatiha": "HkcQUjN-N-M",
    "intro": "W3np2aTFM8o",
@@ -289,6 +289,36 @@
    "ready": true
   },
   {
+   "code": "tamil",
+   "ar": "التاميلية",
+   "native": "தமிழ்",
+   "handle": "@mokhtasr_ta",
+   "dir": "ltr",
+   "iso": "ta",
+   "kind": "tts",
+   "n": 5,
+   "playlist": "PLaPPd2Rgu-Kk",
+   "fatiha": "hLNFZkH36i4",
+   "intro": "8h29eKdsmvY",
+   "thumb": "hLNFZkH36i4",
+   "ready": true
+  },
+  {
+   "code": "sinhala",
+   "ar": "السنهالية",
+   "native": "සිංහල",
+   "handle": "@mokhtasr_si",
+   "dir": "ltr",
+   "iso": "si",
+   "kind": "tts",
+   "n": 5,
+   "playlist": "PLCbdtO6II5NQ",
+   "fatiha": "AyAJqQRgUmM",
+   "intro": "WTN4Ioij8gQ",
+   "thumb": "AyAJqQRgUmM",
+   "ready": true
+  },
+  {
    "code": "filipino",
    "ar": "الفلبينية",
    "native": "Filipino",
@@ -394,18 +424,18 @@
    "ready": true
   },
   {
-   "code": "tamil",
-   "ar": "التاميلية",
-   "native": "தமிழ்",
-   "handle": "@mokhtasr_ta",
+   "code": "thai",
+   "ar": "التايلندية",
+   "native": "ไทย",
+   "handle": "@mokhtasr_th",
    "dir": "ltr",
-   "iso": "ta",
+   "iso": "th",
    "kind": "tts",
    "n": 4,
-   "playlist": "PLaPPd2Rgu-Kk",
-   "fatiha": "hLNFZkH36i4",
-   "intro": "8h29eKdsmvY",
-   "thumb": "hLNFZkH36i4",
+   "playlist": "PLJ7Qi4D2Oyw8",
+   "fatiha": "Gf-gkymb5Tg",
+   "intro": "UwjuHCsEiME",
+   "thumb": "Gf-gkymb5Tg",
    "ready": true
   },
   {
@@ -439,21 +469,6 @@
    "ready": true
   },
   {
-   "code": "sinhala",
-   "ar": "السنهالية",
-   "native": "සිංහල",
-   "handle": "@mokhtasr_si",
-   "dir": "ltr",
-   "iso": "si",
-   "kind": "tts",
-   "n": 4,
-   "playlist": "PLCbdtO6II5NQ",
-   "fatiha": "AyAJqQRgUmM",
-   "intro": "WTN4Ioij8gQ",
-   "thumb": "AyAJqQRgUmM",
-   "ready": true
-  },
-  {
    "code": "swahili",
    "ar": "السواحيلية",
    "native": "Kiswahili",
@@ -481,21 +496,6 @@
    "fatiha": "pZv0-D45m-Y",
    "intro": "dw0iMfIQ8tM",
    "thumb": "pZv0-D45m-Y",
-   "ready": true
-  },
-  {
-   "code": "thai",
-   "ar": "التايلندية",
-   "native": "ไทย",
-   "handle": "@mokhtasr_th",
-   "dir": "ltr",
-   "iso": "th",
-   "kind": "tts",
-   "n": 3,
-   "playlist": "PLJ7Qi4D2Oyw8",
-   "fatiha": "Gf-gkymb5Tg",
-   "intro": "UwjuHCsEiME",
-   "thumb": "Gf-gkymb5Tg",
    "ready": true
   },
   {
