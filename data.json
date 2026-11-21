@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-21 11:45:58",
+ "built": "2026-11-21 11:49:20",
  "date": "21 نوفمبر 2026",
  "pub": [
   {
@@ -71,7 +71,7 @@
    "dir": "ltr",
    "iso": "ha",
    "kind": "dar",
-   "n": 16,
+   "n": 17,
    "playlist": "PLM8YcLVvFrUs",
    "fatiha": "MGzcWkwP4dg",
    "intro": "pxmV4FPC424",
@@ -226,6 +226,21 @@
    "fatiha": "wHjdMmyNhQo",
    "intro": "mm-EQvn-FF8",
    "thumb": "wHjdMmyNhQo",
+   "ready": true
+  },
+  {
+   "code": "japanese",
+   "ar": "اليابانية",
+   "native": "日本語",
+   "handle": "@mokhtasr_ja",
+   "dir": "ltr",
+   "iso": "ja",
+   "kind": "tts",
+   "n": 9,
+   "playlist": "PLGI_7x46HYC8",
+   "fatiha": "u8fmaMDV6wg",
+   "intro": "nArWSa0k5so",
+   "thumb": "u8fmaMDV6wg",
    "ready": true
   },
   {
@@ -436,21 +451,6 @@
    "fatiha": "6d2NsnOfeFs",
    "intro": "jmdcl7NPwkk",
    "thumb": "6d2NsnOfeFs",
-   "ready": true
-  },
-  {
-   "code": "japanese",
-   "ar": "اليابانية",
-   "native": "日本語",
-   "handle": "@mokhtasr_ja",
-   "dir": "ltr",
-   "iso": "ja",
-   "kind": "tts",
-   "n": 8,
-   "playlist": "PLGI_7x46HYC8",
-   "fatiha": "u8fmaMDV6wg",
-   "intro": "nArWSa0k5so",
-   "thumb": "u8fmaMDV6wg",
    "ready": true
   },
   {
