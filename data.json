@@ -1,7 +1,7 @@
 {
  "v": 1,
- "built": "2026-11-21 11:49:20",
- "date": "21 نوفمبر 2026",
+ "built": "2026-11-22 11:17:31",
+ "date": "22 نوفمبر 2026",
  "pub": [
   {
    "code": "arabic",
@@ -11,7 +11,7 @@
    "dir": "rtl",
    "iso": "ar",
    "kind": "dar",
-   "n": 22,
+   "n": 39,
    "playlist": "PLE5ZpTGuw7Yg",
    "fatiha": "in9DBmRnKUY",
    "intro": "Il1tgFYrj1w",
@@ -46,6 +46,21 @@
    "fatiha": "BOz3G-1tUKc",
    "intro": "8sUfIO-16Xs",
    "thumb": "BOz3G-1tUKc",
+   "ready": true
+  },
+  {
+   "code": "kurdish",
+   "ar": "الكردية",
+   "native": "کوردی",
+   "handle": "@mokhtasr_ku",
+   "dir": "rtl",
+   "iso": "ku",
+   "kind": "silent",
+   "n": 18,
+   "playlist": "PLHx-sjdB0aN4",
+   "fatiha": "uogfpMvwCG4",
+   "intro": null,
+   "thumb": "uogfpMvwCG4",
    "ready": true
   },
   {
@@ -394,21 +409,6 @@
    "ready": true
   },
   {
-   "code": "kurdish",
-   "ar": "الكردية",
-   "native": "کوردی",
-   "handle": "@mokhtasr_ku",
-   "dir": "rtl",
-   "iso": "ku",
-   "kind": "silent",
-   "n": 8,
-   "playlist": "PLHx-sjdB0aN4",
-   "fatiha": "uogfpMvwCG4",
-   "intro": null,
-   "thumb": "uogfpMvwCG4",
-   "ready": true
-  },
-  {
    "code": "korean",
    "ar": "الكورية",
    "native": "한국어",
@@ -652,6 +652,6 @@
  "soon": [],
  "extra": {
   "portal": 1,
-  "arabic_asmari": 14
+  "arabic_asmari": 37
  }
 }
