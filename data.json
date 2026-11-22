@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-22 11:20:03",
+ "built": "2026-11-22 20:55:14",
  "date": "22 نوفمبر 2026",
  "pub": [
   {
@@ -19,18 +19,18 @@
    "ready": true
   },
   {
-   "code": "urdu",
-   "ar": "الأردية",
-   "native": "اردو",
-   "handle": "@mokhtasr_ur",
-   "dir": "rtl",
-   "iso": "ur",
+   "code": "french",
+   "ar": "الفرنسية",
+   "native": "Français",
+   "handle": "@mokhtasr_fr",
+   "dir": "ltr",
+   "iso": "fr",
    "kind": "dar",
-   "n": 20,
-   "playlist": "PLL1zhhkKQzs0",
-   "fatiha": "duiilMWiURs",
-   "intro": "QJ9DGQvnvc4",
-   "thumb": "duiilMWiURs",
+   "n": 39,
+   "playlist": "PLfnmZC1pJuVU",
+   "fatiha": "gF_qZQkFPH4",
+   "intro": "jc0-ng9gNZQ",
+   "thumb": "gF_qZQkFPH4",
    "ready": true
   },
   {
@@ -41,11 +41,26 @@
    "dir": "ltr",
    "iso": "ky",
    "kind": "dar",
-   "n": 20,
+   "n": 39,
    "playlist": "PLdQiNGPEvRkE",
    "fatiha": "BOz3G-1tUKc",
    "intro": "8sUfIO-16Xs",
    "thumb": "BOz3G-1tUKc",
+   "ready": true
+  },
+  {
+   "code": "urdu",
+   "ar": "الأردية",
+   "native": "اردو",
+   "handle": "@mokhtasr_ur",
+   "dir": "rtl",
+   "iso": "ur",
+   "kind": "dar",
+   "n": 31,
+   "playlist": "PLL1zhhkKQzs0",
+   "fatiha": "duiilMWiURs",
+   "intro": "QJ9DGQvnvc4",
+   "thumb": "duiilMWiURs",
    "ready": true
   },
   {
@@ -61,21 +76,6 @@
    "fatiha": "uogfpMvwCG4",
    "intro": null,
    "thumb": "uogfpMvwCG4",
-   "ready": true
-  },
-  {
-   "code": "french",
-   "ar": "الفرنسية",
-   "native": "Français",
-   "handle": "@mokhtasr_fr",
-   "dir": "ltr",
-   "iso": "fr",
-   "kind": "dar",
-   "n": 17,
-   "playlist": "PLfnmZC1pJuVU",
-   "fatiha": "gF_qZQkFPH4",
-   "intro": "jc0-ng9gNZQ",
-   "thumb": "gF_qZQkFPH4",
    "ready": true
   },
   {
