@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-23 12:46:16",
+ "built": "2026-11-23 15:43:28",
  "date": "23 نوفمبر 2026",
  "pub": [
   {
@@ -658,19 +658,19 @@
   "akan": {
    "n": 0,
    "total": 24,
-   "approved": 1,
+   "approved": 24,
    "last": null
   },
   "albanian": {
    "n": 0,
    "total": 20,
-   "approved": 0,
+   "approved": 20,
    "last": null
   },
   "amharic": {
    "n": 0,
    "total": 20,
-   "approved": 2,
+   "approved": 20,
    "last": null
   },
   "arabic": {
@@ -688,49 +688,49 @@
   "assamese": {
    "n": 0,
    "total": 18,
-   "approved": 6,
+   "approved": 18,
    "last": null
   },
   "azerbaijani": {
    "n": 0,
    "total": 20,
-   "approved": 6,
+   "approved": 20,
    "last": null
   },
   "bengali": {
    "n": 0,
    "total": 19,
-   "approved": 6,
+   "approved": 19,
    "last": null
   },
   "bosnian": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "chinese": {
    "n": 0,
    "total": 21,
-   "approved": 2,
+   "approved": 21,
    "last": null
   },
   "dutch": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "english": {
    "n": 0,
    "total": 20,
-   "approved": 0,
+   "approved": 20,
    "last": null
   },
   "filipino": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "french": {
@@ -742,49 +742,49 @@
   "fulani": {
    "n": 0,
    "total": 26,
-   "approved": 1,
+   "approved": 26,
    "last": null
   },
   "german": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "hausa": {
    "n": 0,
    "total": 20,
-   "approved": 0,
+   "approved": 20,
    "last": null
   },
   "indonesian": {
    "n": 0,
    "total": 20,
-   "approved": 0,
+   "approved": 20,
    "last": null
   },
   "japanese": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "khmer": {
    "n": 0,
    "total": 19,
-   "approved": 1,
+   "approved": 19,
    "last": null
   },
   "korean": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "kurdish": {
    "n": 0,
    "total": 24,
-   "approved": 8,
+   "approved": 24,
    "last": null
   },
   "kyrgyz": {
@@ -796,43 +796,43 @@
   "luganda": {
    "n": 0,
    "total": 23,
-   "approved": 0,
+   "approved": 23,
    "last": null
   },
   "malagasy": {
    "n": 0,
    "total": 21,
-   "approved": 0,
+   "approved": 21,
    "last": null
   },
   "malayalam": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "nepali": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "pashto": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "persian": {
    "n": 0,
    "total": 20,
-   "approved": 3,
+   "approved": 20,
    "last": null
   },
   "portuguese": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "russian": {
@@ -844,49 +844,49 @@
   "serbian": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "sinhala": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "spanish": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "swahili": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "tajik": {
    "n": 0,
    "total": 24,
-   "approved": 1,
+   "approved": 24,
    "last": null
   },
   "tamil": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "thai": {
    "n": 0,
    "total": 19,
-   "approved": 1,
+   "approved": 19,
    "last": null
   },
   "turkish": {
    "n": 0,
    "total": 20,
-   "approved": 1,
+   "approved": 20,
    "last": null
   },
   "urdu": {
@@ -898,19 +898,19 @@
   "uyghur": {
    "n": 0,
    "total": 24,
-   "approved": 1,
+   "approved": 24,
    "last": null
   },
   "uzbek": {
    "n": 0,
    "total": 20,
-   "approved": 0,
+   "approved": 20,
    "last": null
   },
   "yoruba": {
    "n": 0,
    "total": 23,
-   "approved": 0,
+   "approved": 23,
    "last": null
   }
  }
