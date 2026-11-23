@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-23 11:47:03",
+ "built": "2026-11-23 12:46:16",
  "date": "23 نوفمبر 2026",
  "pub": [
   {
@@ -653,5 +653,265 @@
  "extra": {
   "portal": 1,
   "arabic_asmari": 38
+ },
+ "shorts": {
+  "akan": {
+   "n": 0,
+   "total": 24,
+   "approved": 1,
+   "last": null
+  },
+  "albanian": {
+   "n": 0,
+   "total": 20,
+   "approved": 0,
+   "last": null
+  },
+  "amharic": {
+   "n": 0,
+   "total": 20,
+   "approved": 2,
+   "last": null
+  },
+  "arabic": {
+   "n": 0,
+   "total": 20,
+   "approved": 20,
+   "last": null
+  },
+  "arabic_asmari": {
+   "n": 0,
+   "total": 20,
+   "approved": 20,
+   "last": null
+  },
+  "assamese": {
+   "n": 0,
+   "total": 18,
+   "approved": 6,
+   "last": null
+  },
+  "azerbaijani": {
+   "n": 0,
+   "total": 20,
+   "approved": 6,
+   "last": null
+  },
+  "bengali": {
+   "n": 0,
+   "total": 19,
+   "approved": 6,
+   "last": null
+  },
+  "bosnian": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "chinese": {
+   "n": 0,
+   "total": 21,
+   "approved": 2,
+   "last": null
+  },
+  "dutch": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "english": {
+   "n": 0,
+   "total": 20,
+   "approved": 0,
+   "last": null
+  },
+  "filipino": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "french": {
+   "n": 0,
+   "total": 20,
+   "approved": 20,
+   "last": null
+  },
+  "fulani": {
+   "n": 0,
+   "total": 26,
+   "approved": 1,
+   "last": null
+  },
+  "german": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "hausa": {
+   "n": 0,
+   "total": 20,
+   "approved": 0,
+   "last": null
+  },
+  "indonesian": {
+   "n": 0,
+   "total": 20,
+   "approved": 0,
+   "last": null
+  },
+  "japanese": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "khmer": {
+   "n": 0,
+   "total": 19,
+   "approved": 1,
+   "last": null
+  },
+  "korean": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "kurdish": {
+   "n": 0,
+   "total": 24,
+   "approved": 8,
+   "last": null
+  },
+  "kyrgyz": {
+   "n": 0,
+   "total": 20,
+   "approved": 20,
+   "last": null
+  },
+  "luganda": {
+   "n": 0,
+   "total": 23,
+   "approved": 0,
+   "last": null
+  },
+  "malagasy": {
+   "n": 0,
+   "total": 21,
+   "approved": 0,
+   "last": null
+  },
+  "malayalam": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "nepali": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "pashto": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "persian": {
+   "n": 0,
+   "total": 20,
+   "approved": 3,
+   "last": null
+  },
+  "portuguese": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "russian": {
+   "n": 0,
+   "total": 20,
+   "approved": 20,
+   "last": null
+  },
+  "serbian": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "sinhala": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "spanish": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "swahili": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "tajik": {
+   "n": 0,
+   "total": 24,
+   "approved": 1,
+   "last": null
+  },
+  "tamil": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "thai": {
+   "n": 0,
+   "total": 19,
+   "approved": 1,
+   "last": null
+  },
+  "turkish": {
+   "n": 0,
+   "total": 20,
+   "approved": 1,
+   "last": null
+  },
+  "urdu": {
+   "n": 0,
+   "total": 19,
+   "approved": 19,
+   "last": null
+  },
+  "uyghur": {
+   "n": 0,
+   "total": 24,
+   "approved": 1,
+   "last": null
+  },
+  "uzbek": {
+   "n": 0,
+   "total": 20,
+   "approved": 0,
+   "last": null
+  },
+  "yoruba": {
+   "n": 0,
+   "total": 23,
+   "approved": 0,
+   "last": null
+  }
  }
 }
