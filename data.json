@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-24 11:05:58",
+ "built": "2026-11-24 11:27:18",
  "date": "24 نوفمبر 2026",
  "pub": [
   {
@@ -86,7 +86,7 @@
    "dir": "rtl",
    "iso": "ku",
    "kind": "silent",
-   "n": 22,
+   "n": 24,
    "playlist": "PLHx-sjdB0aN4",
    "fatiha": "uogfpMvwCG4",
    "intro": null,
@@ -101,7 +101,7 @@
    "dir": "ltr",
    "iso": "az",
    "kind": "tts",
-   "n": 20,
+   "n": 23,
    "playlist": "PLaNgAORQS4yY",
    "fatiha": "38TwGFPQYvc",
    "intro": "wyjjV7rxDlM",
@@ -116,7 +116,7 @@
    "dir": "ltr",
    "iso": "bn",
    "kind": "tts",
-   "n": 20,
+   "n": 23,
    "playlist": "PLJzym6E7S7uI",
    "fatiha": "E5fVZUMV0iA",
    "intro": "3w9IyQO_Hxo",
@@ -131,7 +131,7 @@
    "dir": "ltr",
    "iso": "am",
    "kind": "tts",
-   "n": 19,
+   "n": 22,
    "playlist": "PLOE9IEvq_0o0",
    "fatiha": "OZeNk4hFJjc",
    "intro": "P_YY5Grc3OQ",
@@ -146,11 +146,56 @@
    "dir": "rtl",
    "iso": "fa",
    "kind": "tts",
-   "n": 19,
+   "n": 21,
    "playlist": "PLJ5HfAzlqzZU",
    "fatiha": "f-rRdpvLFXQ",
    "intro": "1D9mbpnob0s",
    "thumb": "f-rRdpvLFXQ",
+   "ready": true
+  },
+  {
+   "code": "english",
+   "ar": "الإنجليزية",
+   "native": "English",
+   "handle": "@mokhtasr_en",
+   "dir": "ltr",
+   "iso": "en",
+   "kind": "dar",
+   "n": 17,
+   "playlist": "PLDYJqpiT6JFU",
+   "fatiha": "HkcQUjN-N-M",
+   "intro": "W3np2aTFM8o",
+   "thumb": "HkcQUjN-N-M",
+   "ready": true
+  },
+  {
+   "code": "bosnian",
+   "ar": "البوسنية",
+   "native": "Bosanski",
+   "handle": "@mokhtasr_bs",
+   "dir": "ltr",
+   "iso": "bs",
+   "kind": "tts",
+   "n": 17,
+   "playlist": "PLOrUE1gkBIEc",
+   "fatiha": "71Oxa_LgPO0",
+   "intro": "qWHO0C5G3Xo",
+   "thumb": "71Oxa_LgPO0",
+   "ready": true
+  },
+  {
+   "code": "chinese",
+   "ar": "الصينية",
+   "native": "中文",
+   "handle": "@mokhtasr_zh",
+   "dir": "ltr",
+   "iso": "zh",
+   "kind": "tts",
+   "n": 17,
+   "playlist": "PLBC-M9nMzjeg",
+   "fatiha": "Nw1wSR1YJ-g",
+   "intro": "KbDMM-6WjBA",
+   "thumb": "Nw1wSR1YJ-g",
    "ready": true
   },
   {
@@ -169,51 +214,6 @@
    "ready": true
   },
   {
-   "code": "english",
-   "ar": "الإنجليزية",
-   "native": "English",
-   "handle": "@mokhtasr_en",
-   "dir": "ltr",
-   "iso": "en",
-   "kind": "dar",
-   "n": 14,
-   "playlist": "PLDYJqpiT6JFU",
-   "fatiha": "HkcQUjN-N-M",
-   "intro": "W3np2aTFM8o",
-   "thumb": "HkcQUjN-N-M",
-   "ready": true
-  },
-  {
-   "code": "bosnian",
-   "ar": "البوسنية",
-   "native": "Bosanski",
-   "handle": "@mokhtasr_bs",
-   "dir": "ltr",
-   "iso": "bs",
-   "kind": "tts",
-   "n": 14,
-   "playlist": "PLOrUE1gkBIEc",
-   "fatiha": "71Oxa_LgPO0",
-   "intro": "qWHO0C5G3Xo",
-   "thumb": "71Oxa_LgPO0",
-   "ready": true
-  },
-  {
-   "code": "chinese",
-   "ar": "الصينية",
-   "native": "中文",
-   "handle": "@mokhtasr_zh",
-   "dir": "ltr",
-   "iso": "zh",
-   "kind": "tts",
-   "n": 14,
-   "playlist": "PLBC-M9nMzjeg",
-   "fatiha": "Nw1wSR1YJ-g",
-   "intro": "KbDMM-6WjBA",
-   "thumb": "Nw1wSR1YJ-g",
-   "ready": true
-  },
-  {
    "code": "dutch",
    "ar": "الهولندية",
    "native": "Nederlands",
@@ -221,11 +221,26 @@
    "dir": "ltr",
    "iso": "nl",
    "kind": "tts",
-   "n": 14,
+   "n": 17,
    "playlist": "PLayAWM3u50hs",
    "fatiha": "wHjdMmyNhQo",
    "intro": "mm-EQvn-FF8",
    "thumb": "wHjdMmyNhQo",
+   "ready": true
+  },
+  {
+   "code": "filipino",
+   "ar": "الفلبينية",
+   "native": "Filipino",
+   "handle": "@mokhtasr_tl",
+   "dir": "ltr",
+   "iso": "tl",
+   "kind": "tts",
+   "n": 16,
+   "playlist": "PLIOXY1Rbzi98",
+   "fatiha": "T6ILk46Iwvk",
+   "intro": "JIqNMNpnuLw",
+   "thumb": "T6ILk46Iwvk",
    "ready": true
   },
   {
@@ -236,11 +251,116 @@
    "dir": "ltr",
    "iso": "ja",
    "kind": "tts",
-   "n": 14,
+   "n": 16,
    "playlist": "PLGI_7x46HYC8",
    "fatiha": "u8fmaMDV6wg",
    "intro": "nArWSa0k5so",
    "thumb": "u8fmaMDV6wg",
+   "ready": true
+  },
+  {
+   "code": "german",
+   "ar": "الألمانية",
+   "native": "Deutsch",
+   "handle": "@mokhtasr_de",
+   "dir": "ltr",
+   "iso": "de",
+   "kind": "tts",
+   "n": 15,
+   "playlist": "PLbSFpGoqv0fY",
+   "fatiha": "GrW3p2BaA_M",
+   "intro": "sMk3-un0Eqk",
+   "thumb": "GrW3p2BaA_M",
+   "ready": true
+  },
+  {
+   "code": "khmer",
+   "ar": "الخميرية",
+   "native": "ខ្មែរ",
+   "handle": "@mokhtasr_km",
+   "dir": "ltr",
+   "iso": "km",
+   "kind": "tts",
+   "n": 15,
+   "playlist": "PLZBqSPQuulaE",
+   "fatiha": "9QrEPXnZrrc",
+   "intro": "7wLoE20aqAs",
+   "thumb": "9QrEPXnZrrc",
+   "ready": true
+  },
+  {
+   "code": "portuguese",
+   "ar": "البرتغالية",
+   "native": "Português",
+   "handle": "@mokhtasr_pt",
+   "dir": "ltr",
+   "iso": "pt",
+   "kind": "tts",
+   "n": 14,
+   "playlist": "PLPpunjjO1PkE",
+   "fatiha": "NY2H_au6Y48",
+   "intro": "J4o0CV1W_2w",
+   "thumb": "NY2H_au6Y48",
+   "ready": true
+  },
+  {
+   "code": "serbian",
+   "ar": "الصربية",
+   "native": "Srpski",
+   "handle": "@mokhtasr_sr",
+   "dir": "ltr",
+   "iso": "sr",
+   "kind": "tts",
+   "n": 14,
+   "playlist": "PLExhOrvpGjyg",
+   "fatiha": "pZv0-D45m-Y",
+   "intro": "dw0iMfIQ8tM",
+   "thumb": "pZv0-D45m-Y",
+   "ready": true
+  },
+  {
+   "code": "korean",
+   "ar": "الكورية",
+   "native": "한국어",
+   "handle": "@mokhtasr_ko",
+   "dir": "ltr",
+   "iso": "ko",
+   "kind": "tts",
+   "n": 14,
+   "playlist": "PLJivghJO6_l0",
+   "fatiha": "TulQoCsNhkM",
+   "intro": "NWLnB-lPm7w",
+   "thumb": "TulQoCsNhkM",
+   "ready": true
+  },
+  {
+   "code": "malayalam",
+   "ar": "المليالمية",
+   "native": "മലയാളം",
+   "handle": "@mokhtasr_ml",
+   "dir": "ltr",
+   "iso": "ml",
+   "kind": "tts",
+   "n": 14,
+   "playlist": "PLHYPsBbrklfY",
+   "fatiha": "A_zyYAJRFfM",
+   "intro": "tCn558fVYx8",
+   "thumb": "A_zyYAJRFfM",
+   "ready": true
+  },
+  {
+   "code": "nepali",
+   "ar": "النيبالية",
+   "native": "नेपाली",
+   "handle": "@mokhtasr_ne",
+   "dir": "ltr",
+   "iso": "ne",
+   "kind": "tts",
+   "n": 14,
+   "playlist": "PLUNVy9abxz0k",
+   "fatiha": "6d2NsnOfeFs",
+   "intro": "jmdcl7NPwkk",
+   "thumb": "6d2NsnOfeFs",
    "ready": true
   },
   {
@@ -259,126 +379,6 @@
    "ready": true
   },
   {
-   "code": "german",
-   "ar": "الألمانية",
-   "native": "Deutsch",
-   "handle": "@mokhtasr_de",
-   "dir": "ltr",
-   "iso": "de",
-   "kind": "tts",
-   "n": 13,
-   "playlist": "PLbSFpGoqv0fY",
-   "fatiha": "GrW3p2BaA_M",
-   "intro": "sMk3-un0Eqk",
-   "thumb": "GrW3p2BaA_M",
-   "ready": true
-  },
-  {
-   "code": "khmer",
-   "ar": "الخميرية",
-   "native": "ខ្មែរ",
-   "handle": "@mokhtasr_km",
-   "dir": "ltr",
-   "iso": "km",
-   "kind": "tts",
-   "n": 13,
-   "playlist": "PLZBqSPQuulaE",
-   "fatiha": "9QrEPXnZrrc",
-   "intro": "7wLoE20aqAs",
-   "thumb": "9QrEPXnZrrc",
-   "ready": true
-  },
-  {
-   "code": "filipino",
-   "ar": "الفلبينية",
-   "native": "Filipino",
-   "handle": "@mokhtasr_tl",
-   "dir": "ltr",
-   "iso": "tl",
-   "kind": "tts",
-   "n": 13,
-   "playlist": "PLIOXY1Rbzi98",
-   "fatiha": "T6ILk46Iwvk",
-   "intro": "JIqNMNpnuLw",
-   "thumb": "T6ILk46Iwvk",
-   "ready": true
-  },
-  {
-   "code": "portuguese",
-   "ar": "البرتغالية",
-   "native": "Português",
-   "handle": "@mokhtasr_pt",
-   "dir": "ltr",
-   "iso": "pt",
-   "kind": "tts",
-   "n": 12,
-   "playlist": "PLPpunjjO1PkE",
-   "fatiha": "NY2H_au6Y48",
-   "intro": "J4o0CV1W_2w",
-   "thumb": "NY2H_au6Y48",
-   "ready": true
-  },
-  {
-   "code": "serbian",
-   "ar": "الصربية",
-   "native": "Srpski",
-   "handle": "@mokhtasr_sr",
-   "dir": "ltr",
-   "iso": "sr",
-   "kind": "tts",
-   "n": 12,
-   "playlist": "PLExhOrvpGjyg",
-   "fatiha": "pZv0-D45m-Y",
-   "intro": "dw0iMfIQ8tM",
-   "thumb": "pZv0-D45m-Y",
-   "ready": true
-  },
-  {
-   "code": "korean",
-   "ar": "الكورية",
-   "native": "한국어",
-   "handle": "@mokhtasr_ko",
-   "dir": "ltr",
-   "iso": "ko",
-   "kind": "tts",
-   "n": 12,
-   "playlist": "PLJivghJO6_l0",
-   "fatiha": "TulQoCsNhkM",
-   "intro": "NWLnB-lPm7w",
-   "thumb": "TulQoCsNhkM",
-   "ready": true
-  },
-  {
-   "code": "malayalam",
-   "ar": "المليالمية",
-   "native": "മലയാളം",
-   "handle": "@mokhtasr_ml",
-   "dir": "ltr",
-   "iso": "ml",
-   "kind": "tts",
-   "n": 12,
-   "playlist": "PLHYPsBbrklfY",
-   "fatiha": "A_zyYAJRFfM",
-   "intro": "tCn558fVYx8",
-   "thumb": "A_zyYAJRFfM",
-   "ready": true
-  },
-  {
-   "code": "nepali",
-   "ar": "النيبالية",
-   "native": "नेपाली",
-   "handle": "@mokhtasr_ne",
-   "dir": "ltr",
-   "iso": "ne",
-   "kind": "tts",
-   "n": 12,
-   "playlist": "PLUNVy9abxz0k",
-   "fatiha": "6d2NsnOfeFs",
-   "intro": "jmdcl7NPwkk",
-   "thumb": "6d2NsnOfeFs",
-   "ready": true
-  },
-  {
    "code": "tamil",
    "ar": "التاميلية",
    "native": "தமிழ்",
@@ -386,7 +386,7 @@
    "dir": "ltr",
    "iso": "ta",
    "kind": "tts",
-   "n": 11,
+   "n": 13,
    "playlist": "PLaPPd2Rgu-Kk",
    "fatiha": "hLNFZkH36i4",
    "intro": "8h29eKdsmvY",
@@ -401,11 +401,26 @@
    "dir": "ltr",
    "iso": "th",
    "kind": "tts",
-   "n": 11,
+   "n": 13,
    "playlist": "PLJ7Qi4D2Oyw8",
    "fatiha": "Gf-gkymb5Tg",
    "intro": "UwjuHCsEiME",
    "thumb": "Gf-gkymb5Tg",
+   "ready": true
+  },
+  {
+   "code": "turkish",
+   "ar": "التركية",
+   "native": "Türkçe",
+   "handle": "@mokhtasr_tr",
+   "dir": "ltr",
+   "iso": "tr",
+   "kind": "tts",
+   "n": 10,
+   "playlist": "PLECTblZYvlAU",
+   "fatiha": "lI7yPmOrDbg",
+   "intro": "DQl2TbNByNU",
+   "thumb": "lI7yPmOrDbg",
    "ready": true
   },
   {
@@ -451,21 +466,6 @@
    "fatiha": "CcIPqLASzC8",
    "intro": "x-dZ_32BMCE",
    "thumb": "CcIPqLASzC8",
-   "ready": true
-  },
-  {
-   "code": "turkish",
-   "ar": "التركية",
-   "native": "Türkçe",
-   "handle": "@mokhtasr_tr",
-   "dir": "ltr",
-   "iso": "tr",
-   "kind": "tts",
-   "n": 8,
-   "playlist": "PLECTblZYvlAU",
-   "fatiha": "lI7yPmOrDbg",
-   "intro": "DQl2TbNByNU",
-   "thumb": "lI7yPmOrDbg",
    "ready": true
   },
   {
@@ -668,22 +668,22 @@
    "last": null
   },
   "amharic": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "DtPhVOngE0k"
   },
   "arabic": {
-   "n": 1,
+   "n": 2,
    "total": 20,
    "approved": 20,
-   "last": "mJjeSQsXQ0c"
+   "last": "-iwTSnXPKZQ"
   },
   "arabic_asmari": {
-   "n": 1,
+   "n": 2,
    "total": 20,
    "approved": 20,
-   "last": "PebL4Bs7DBg"
+   "last": "QVipmC_KU7I"
   },
   "assamese": {
    "n": 0,
@@ -692,16 +692,16 @@
    "last": null
   },
   "azerbaijani": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "O_rM6vUKfzc"
   },
   "bengali": {
-   "n": 0,
+   "n": 1,
    "total": 19,
    "approved": 19,
-   "last": null
+   "last": "JZngaHDsZ6s"
   },
   "bosnian": {
    "n": 0,
@@ -734,10 +734,10 @@
    "last": null
   },
   "french": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "JaByRuxrX9Y"
   },
   "fulani": {
    "n": 0,
@@ -776,22 +776,22 @@
    "last": null
   },
   "korean": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "LVtSCLsa6iY"
   },
   "kurdish": {
-   "n": 0,
+   "n": 1,
    "total": 24,
    "approved": 24,
-   "last": null
+   "last": "HxX5LSv7wAk"
   },
   "kyrgyz": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "yjFFj8RB8Yg"
   },
   "luganda": {
    "n": 0,
@@ -806,16 +806,16 @@
    "last": null
   },
   "malayalam": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "Uy8b6LFJYms"
   },
   "nepali": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "vmguCFFhCL0"
   },
   "pashto": {
    "n": 0,
@@ -824,28 +824,28 @@
    "last": null
   },
   "persian": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "VZzatBx3bB4"
   },
   "portuguese": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "d0U0OC1E2pk"
   },
   "russian": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "3ZfDV3JnjQU"
   },
   "serbian": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "rnMcxUpzyoY"
   },
   "sinhala": {
    "n": 0,
@@ -866,34 +866,34 @@
    "last": null
   },
   "tajik": {
-   "n": 0,
+   "n": 1,
    "total": 24,
    "approved": 24,
-   "last": null
+   "last": "oPdCoi6nwRc"
   },
   "tamil": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "1vDPmdHc6qE"
   },
   "thai": {
-   "n": 0,
+   "n": 1,
    "total": 19,
    "approved": 19,
-   "last": null
+   "last": "oaYjULQlcf0"
   },
   "turkish": {
-   "n": 0,
+   "n": 1,
    "total": 20,
    "approved": 20,
-   "last": null
+   "last": "EaHt1_V3E0U"
   },
   "urdu": {
-   "n": 0,
+   "n": 1,
    "total": 19,
    "approved": 19,
-   "last": null
+   "last": "KRxx_MBm6Bg"
   },
   "uyghur": {
    "n": 0,
