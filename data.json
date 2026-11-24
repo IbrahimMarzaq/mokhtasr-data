@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-24 12:35:58",
+ "built": "2026-11-24 17:42:58",
  "date": "24 نوفمبر 2026",
  "pub": [
   {
@@ -79,6 +79,21 @@
    "ready": true
   },
   {
+   "code": "persian",
+   "ar": "الفارسية",
+   "native": "فارسی",
+   "handle": "@mokhtasr_fa",
+   "dir": "rtl",
+   "iso": "fa",
+   "kind": "tts",
+   "n": 26,
+   "playlist": "PLJ5HfAzlqzZU",
+   "fatiha": "f-rRdpvLFXQ",
+   "intro": "1D9mbpnob0s",
+   "thumb": "f-rRdpvLFXQ",
+   "ready": true
+  },
+  {
    "code": "kurdish",
    "ar": "الكردية",
    "native": "کوردی",
@@ -139,18 +154,18 @@
    "ready": true
   },
   {
-   "code": "persian",
-   "ar": "الفارسية",
-   "native": "فارسی",
-   "handle": "@mokhtasr_fa",
-   "dir": "rtl",
-   "iso": "fa",
-   "kind": "tts",
-   "n": 22,
-   "playlist": "PLJ5HfAzlqzZU",
-   "fatiha": "f-rRdpvLFXQ",
-   "intro": "1D9mbpnob0s",
-   "thumb": "f-rRdpvLFXQ",
+   "code": "english",
+   "ar": "الإنجليزية",
+   "native": "English",
+   "handle": "@mokhtasr_en",
+   "dir": "ltr",
+   "iso": "en",
+   "kind": "dar",
+   "n": 23,
+   "playlist": "PLDYJqpiT6JFU",
+   "fatiha": "HkcQUjN-N-M",
+   "intro": "W3np2aTFM8o",
+   "thumb": "HkcQUjN-N-M",
    "ready": true
   },
   {
@@ -196,21 +211,6 @@
    "fatiha": "wHjdMmyNhQo",
    "intro": "mm-EQvn-FF8",
    "thumb": "wHjdMmyNhQo",
-   "ready": true
-  },
-  {
-   "code": "english",
-   "ar": "الإنجليزية",
-   "native": "English",
-   "handle": "@mokhtasr_en",
-   "dir": "ltr",
-   "iso": "en",
-   "kind": "dar",
-   "n": 18,
-   "playlist": "PLDYJqpiT6JFU",
-   "fatiha": "HkcQUjN-N-M",
-   "intro": "W3np2aTFM8o",
-   "thumb": "HkcQUjN-N-M",
    "ready": true
   },
   {
@@ -1577,6 +1577,26 @@
    [
     93,
     "rftygp4FYKU"
+   ],
+   [
+    94,
+    "YSUt6WiQlSo"
+   ],
+   [
+    95,
+    "CRjCVL4h8rk"
+   ],
+   [
+    96,
+    "qXtLp88EbWo"
+   ],
+   [
+    97,
+    "32DufRpfrb0"
+   ],
+   [
+    98,
+    "c_bk_vRuZMs"
    ]
   ],
   "french": [
@@ -2229,6 +2249,22 @@
    [
     98,
     "6yKgvYtI0cU"
+   ],
+   [
+    99,
+    "_eu4CgTLlIo"
+   ],
+   [
+    100,
+    "y04Zo8S-zZ8"
+   ],
+   [
+    101,
+    "xhaXpdNACvE"
+   ],
+   [
+    102,
+    "KkImoPMoGV8"
    ]
   ],
   "amharic": [
@@ -3749,15 +3785,249 @@
   ]
  },
  "stats": {
-  "at": "2026-11-24 11:05",
+  "at": "2026-11-24 17:42",
   "channels": {
-   "luganda": {
-    "handle": "@mokhtasr_lg",
+   "tamil": {
+    "handle": "@mokhtasr_ta",
+    "subs": 3,
+    "views": 27,
+    "videos": 15,
+    "long": {
+     "n": 14,
+     "views": 40,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 377,
+     "likes": 19,
+     "comments": 0
+    }
+   },
+   "yoruba": {
+    "handle": "@mokhtasr_yo",
     "subs": 0,
-    "views": 1,
+    "views": 0,
     "videos": 1,
     "long": {
      "n": 1,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "russian": {
+    "handle": "@mokhtasr_ru",
+    "subs": 3,
+    "views": 35,
+    "videos": 40,
+    "long": {
+     "n": 39,
+     "views": 37,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 152,
+     "likes": 6,
+     "comments": 0
+    }
+   },
+   "thai": {
+    "handle": "@mokhtasr_th",
+    "subs": 0,
+    "views": 3,
+    "videos": 15,
+    "long": {
+     "n": 14,
+     "views": 6,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "sinhala": {
+    "handle": "@mokhtasr_si",
+    "subs": 1,
+    "views": 0,
+    "videos": 3,
+    "long": {
+     "n": 8,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "english": {
+    "handle": "@mokhtasr_en",
+    "subs": 3,
+    "views": 57,
+    "videos": 20,
+    "long": {
+     "n": 23,
+     "views": 64,
+     "likes": 1,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "serbian": {
+    "handle": "@mokhtasr_sr",
+    "subs": 1,
+    "views": 1,
+    "videos": 16,
+    "long": {
+     "n": 15,
+     "views": 1,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "german": {
+    "handle": "@mokhtasr_de",
+    "subs": 1,
+    "views": 0,
+    "videos": 17,
+    "long": {
+     "n": 17,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "swahili": {
+    "handle": "@mokhtasr_sw",
+    "subs": 1,
+    "views": 4,
+    "videos": 3,
+    "long": {
+     "n": 8,
+     "views": 4,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "chinese": {
+    "handle": "@mokhtasr_zh",
+    "subs": 1,
+    "views": 5,
+    "videos": 19,
+    "long": {
+     "n": 19,
+     "views": 7,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "kyrgyz": {
+    "handle": "@mokhtasr_ky",
+    "subs": 3,
+    "views": 14,
+    "videos": 40,
+    "long": {
+     "n": 39,
+     "views": 23,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "persian": {
+    "handle": "@mokhtasr_fa",
+    "subs": 1,
+    "views": 27,
+    "videos": 24,
+    "long": {
+     "n": 26,
+     "views": 39,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 250,
+     "likes": 5,
+     "comments": 0
+    }
+   },
+   "pashto": {
+    "handle": "@mokhtasr_ps",
+    "subs": 3,
+    "views": 186,
+    "videos": 3,
+    "long": {
+     "n": 8,
+     "views": 210,
+     "likes": 1,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "filipino": {
+    "handle": "@mokhtasr_tl",
+    "subs": 1,
+    "views": 1,
+    "videos": 17,
+    "long": {
+     "n": 17,
      "views": 1,
      "likes": 0,
      "comments": 0
@@ -3769,8 +4039,98 @@
      "comments": 0
     }
    },
-   "indonesian": {
-    "handle": "@mokhtasr_id",
+   "dutch": {
+    "handle": "@mokhtasr_nl",
+    "subs": 1,
+    "views": 4,
+    "videos": 19,
+    "long": {
+     "n": 19,
+     "views": 13,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "japanese": {
+    "handle": "@mokhtasr_ja",
+    "subs": 0,
+    "views": 0,
+    "videos": 17,
+    "long": {
+     "n": 17,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "bengali": {
+    "handle": "@mokhtasr_bn",
+    "subs": 1,
+    "views": 2,
+    "videos": 25,
+    "long": {
+     "n": 24,
+     "views": 2,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "tajik": {
+    "handle": "@mokhtasr_tg",
+    "subs": 0,
+    "views": 0,
+    "videos": 2,
+    "long": {
+     "n": 1,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 30,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "korean": {
+    "handle": "@mokhtasr_ko",
+    "subs": 0,
+    "views": 0,
+    "videos": 16,
+    "long": {
+     "n": 15,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "uyghur": {
+    "handle": "@mokhtasr_ug",
     "subs": 0,
     "views": 0,
     "videos": 1,
@@ -3805,14 +4165,14 @@
      "comments": 0
     }
    },
-   "russian": {
-    "handle": "@mokhtasr_ru",
-    "subs": 2,
-    "views": 35,
-    "videos": 9,
+   "albanian": {
+    "handle": "@mokhtasr_sq",
+    "subs": 0,
+    "views": 0,
+    "videos": 1,
     "long": {
-     "n": 39,
-     "views": 35,
+     "n": 1,
+     "views": 1,
      "likes": 0,
      "comments": 0
     },
@@ -3823,32 +4183,32 @@
      "comments": 0
     }
    },
-   "portal": {
-    "handle": "@mokhtasr_tafsir_media",
-    "subs": 4,
-    "views": 74,
-    "videos": 2,
+   "kurdish": {
+    "handle": "@mokhtasr_ku",
+    "subs": 1,
+    "views": 14,
+    "videos": 26,
     "long": {
-     "n": 1,
-     "views": 3,
-     "likes": 0,
+     "n": 25,
+     "views": 14,
+     "likes": 1,
      "comments": 0
     },
     "shorts": {
      "n": 1,
-     "views": 73,
-     "likes": 5,
+     "views": 75,
+     "likes": 0,
      "comments": 0
     }
    },
-   "turkish": {
-    "handle": "@mokhtasr_tr",
-    "subs": 2,
-    "views": 2,
-    "videos": 8,
+   "italian": {
+    "handle": "@mokhtasr_it",
+    "subs": 0,
+    "views": 1,
+    "videos": 3,
     "long": {
      "n": 8,
-     "views": 2,
+     "views": 1,
      "likes": 0,
      "comments": 0
     },
@@ -3859,8 +4219,62 @@
      "comments": 0
     }
    },
-   "uyghur": {
-    "handle": "@mokhtasr_ug",
+   "arabic": {
+    "handle": "@mokhtasr_ar",
+    "subs": 40,
+    "views": 1497,
+    "videos": 81,
+    "long": {
+     "n": 77,
+     "views": 187,
+     "likes": 1,
+     "comments": 1
+    },
+    "shorts": {
+     "n": 4,
+     "views": 2649,
+     "likes": 136,
+     "comments": 3
+    }
+   },
+   "hausa": {
+    "handle": "@mokhtasr_ha",
+    "subs": 2,
+    "views": 31,
+    "videos": 11,
+    "long": {
+     "n": 17,
+     "views": 36,
+     "likes": 2,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "khmer": {
+    "handle": "@mokhtasr_km",
+    "subs": 0,
+    "views": 1,
+    "videos": 16,
+    "long": {
+     "n": 16,
+     "views": 1,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 0,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "indonesian": {
+    "handle": "@mokhtasr_id",
     "subs": 0,
     "views": 0,
     "videos": 1,
@@ -3877,21 +4291,21 @@
      "comments": 0
     }
    },
-   "nepali": {
-    "handle": "@mokhtasr_ne",
-    "subs": 1,
-    "views": 0,
-    "videos": 12,
+   "urdu": {
+    "handle": "@mokhtasr_ur",
+    "subs": 3,
+    "views": 28,
+    "videos": 40,
     "long": {
-     "n": 12,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
+     "n": 39,
+     "views": 34,
+     "likes": 3,
+     "comments": 1
     },
     "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
+     "n": 1,
+     "views": 201,
+     "likes": 11,
      "comments": 0
     }
    },
@@ -3913,19 +4327,37 @@
      "comments": 0
     }
    },
+   "amharic": {
+    "handle": "@mokhtasr_am",
+    "subs": 1,
+    "views": 3,
+    "videos": 24,
+    "long": {
+     "n": 23,
+     "views": 6,
+     "likes": 0,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 1,
+     "likes": 0,
+     "comments": 0
+    }
+   },
    "portuguese": {
     "handle": "@mokhtasr_pt",
     "subs": 1,
     "views": 2,
-    "videos": 12,
+    "videos": 16,
     "long": {
-     "n": 12,
+     "n": 15,
      "views": 2,
      "likes": 0,
      "comments": 0
     },
     "shorts": {
-     "n": 0,
+     "n": 1,
      "views": 0,
      "likes": 0,
      "comments": 0
@@ -3949,172 +4381,64 @@
      "comments": 0
     }
    },
-   "filipino": {
-    "handle": "@mokhtasr_tl",
-    "subs": 1,
-    "views": 1,
-    "videos": 13,
-    "long": {
-     "n": 13,
-     "views": 1,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "bosnian": {
-    "handle": "@mokhtasr_bs",
-    "subs": 1,
-    "views": 6,
-    "videos": 14,
-    "long": {
-     "n": 14,
-     "views": 6,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "serbian": {
-    "handle": "@mokhtasr_sr",
-    "subs": 1,
-    "views": 1,
-    "videos": 12,
-    "long": {
-     "n": 12,
-     "views": 1,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "bengali": {
-    "handle": "@mokhtasr_bn",
-    "subs": 1,
-    "views": 2,
-    "videos": 20,
-    "long": {
-     "n": 20,
-     "views": 2,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "thai": {
-    "handle": "@mokhtasr_th",
-    "subs": 0,
-    "views": 3,
-    "videos": 11,
-    "long": {
-     "n": 11,
-     "views": 5,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "chinese": {
-    "handle": "@mokhtasr_zh",
-    "subs": 1,
-    "views": 5,
-    "videos": 14,
-    "long": {
-     "n": 14,
-     "views": 7,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "kurdish": {
-    "handle": "@mokhtasr_ku",
-    "subs": 1,
-    "views": 14,
-    "videos": 22,
-    "long": {
-     "n": 22,
-     "views": 14,
-     "likes": 1,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "pashto": {
-    "handle": "@mokhtasr_ps",
+   "malayalam": {
+    "handle": "@mokhtasr_ml",
     "subs": 3,
-    "views": 186,
-    "videos": 3,
+    "views": 10,
+    "videos": 16,
     "long": {
-     "n": 8,
-     "views": 186,
-     "likes": 1,
-     "comments": 0
+     "n": 15,
+     "views": 11,
+     "likes": 0,
+     "comments": 1
     },
     "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "tajik": {
-    "handle": "@mokhtasr_tg",
-    "subs": 0,
-    "views": 0,
-    "videos": 1,
-    "long": {
      "n": 1,
      "views": 0,
      "likes": 0,
      "comments": 0
+    }
+   },
+   "nepali": {
+    "handle": "@mokhtasr_ne",
+    "subs": 1,
+    "views": 0,
+    "videos": 16,
+    "long": {
+     "n": 15,
+     "views": 0,
+     "likes": 0,
+     "comments": 0
     },
     "shorts": {
-     "n": 0,
+     "n": 1,
      "views": 0,
      "likes": 0,
      "comments": 0
     }
    },
-   "albanian": {
-    "handle": "@mokhtasr_sq",
+   "french": {
+    "handle": "@mokhtasr_fr",
+    "subs": 4,
+    "views": 205,
+    "videos": 40,
+    "long": {
+     "n": 39,
+     "views": 207,
+     "likes": 4,
+     "comments": 0
+    },
+    "shorts": {
+     "n": 1,
+     "views": 18,
+     "likes": 0,
+     "comments": 0
+    }
+   },
+   "luganda": {
+    "handle": "@mokhtasr_lg",
     "subs": 0,
-    "views": 0,
+    "views": 1,
     "videos": 1,
     "long": {
      "n": 1,
@@ -4136,7 +4460,7 @@
     "videos": 1,
     "long": {
      "n": 1,
-     "views": 1,
+     "views": 2,
      "likes": 0,
      "comments": 0
     },
@@ -4147,146 +4471,38 @@
      "comments": 0
     }
    },
-   "swahili": {
-    "handle": "@mokhtasr_sw",
-    "subs": 1,
-    "views": 4,
-    "videos": 3,
+   "portal": {
+    "handle": "@mokhtasr_tafsir_media",
+    "subs": 5,
+    "views": 74,
+    "videos": 2,
     "long": {
-     "n": 8,
-     "views": 4,
+     "n": 1,
+     "views": 3,
      "likes": 0,
      "comments": 0
     },
     "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
+     "n": 1,
+     "views": 75,
+     "likes": 5,
      "comments": 0
     }
    },
-   "japanese": {
-    "handle": "@mokhtasr_ja",
-    "subs": 0,
-    "views": 0,
-    "videos": 14,
-    "long": {
-     "n": 14,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "english": {
-    "handle": "@mokhtasr_en",
-    "subs": 3,
-    "views": 57,
-    "videos": 14,
-    "long": {
-     "n": 14,
-     "views": 57,
-     "likes": 1,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "spanish": {
-    "handle": "@mokhtasr_es",
-    "subs": 1,
-    "views": 1,
-    "videos": 3,
-    "long": {
-     "n": 8,
-     "views": 1,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "urdu": {
-    "handle": "@mokhtasr_ur",
+   "turkish": {
+    "handle": "@mokhtasr_tr",
     "subs": 2,
-    "views": 27,
-    "videos": 39,
-    "long": {
-     "n": 39,
-     "views": 29,
-     "likes": 3,
-     "comments": 1
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "korean": {
-    "handle": "@mokhtasr_ko",
-    "subs": 0,
-    "views": 0,
+    "views": 2,
     "videos": 12,
     "long": {
-     "n": 12,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "persian": {
-    "handle": "@mokhtasr_fa",
-    "subs": 1,
-    "views": 27,
-    "videos": 19,
-    "long": {
-     "n": 19,
-     "views": 27,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "tamil": {
-    "handle": "@mokhtasr_ta",
-    "subs": 2,
-    "views": 26,
-    "videos": 11,
-    "long": {
      "n": 11,
-     "views": 27,
+     "views": 2,
      "likes": 0,
      "comments": 0
     },
     "shorts": {
-     "n": 0,
-     "views": 0,
+     "n": 1,
+     "views": 1,
      "likes": 0,
      "comments": 0
     }
@@ -4309,104 +4525,14 @@
      "comments": 0
     }
    },
-   "azerbaijani": {
-    "handle": "@mokhtasr_az",
-    "subs": 2,
-    "views": 1,
-    "videos": 20,
-    "long": {
-     "n": 20,
-     "views": 1,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "dutch": {
-    "handle": "@mokhtasr_nl",
+   "bosnian": {
+    "handle": "@mokhtasr_bs",
     "subs": 1,
-    "views": 4,
-    "videos": 14,
-    "long": {
-     "n": 14,
-     "views": 4,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "yoruba": {
-    "handle": "@mokhtasr_yo",
-    "subs": 0,
-    "views": 0,
-    "videos": 1,
-    "long": {
-     "n": 1,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "malayalam": {
-    "handle": "@mokhtasr_ml",
-    "subs": 2,
-    "views": 10,
-    "videos": 12,
-    "long": {
-     "n": 12,
-     "views": 10,
-     "likes": 0,
-     "comments": 1
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "french": {
-    "handle": "@mokhtasr_fr",
-    "subs": 4,
-    "views": 205,
-    "videos": 11,
-    "long": {
-     "n": 39,
-     "views": 205,
-     "likes": 4,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "amharic": {
-    "handle": "@mokhtasr_am",
-    "subs": 1,
-    "views": 3,
+    "views": 6,
     "videos": 19,
     "long": {
      "n": 19,
-     "views": 3,
+     "views": 6,
      "likes": 0,
      "comments": 0
     },
@@ -4417,122 +4543,32 @@
      "comments": 0
     }
    },
-   "sinhala": {
-    "handle": "@mokhtasr_si",
-    "subs": 1,
-    "views": 0,
-    "videos": 3,
-    "long": {
-     "n": 8,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "german": {
-    "handle": "@mokhtasr_de",
-    "subs": 1,
-    "views": 0,
-    "videos": 13,
-    "long": {
-     "n": 13,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "hausa": {
-    "handle": "@mokhtasr_ha",
-    "subs": 1,
-    "views": 31,
-    "videos": 11,
-    "long": {
-     "n": 17,
-     "views": 32,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "kyrgyz": {
-    "handle": "@mokhtasr_ky",
+   "azerbaijani": {
+    "handle": "@mokhtasr_az",
     "subs": 3,
-    "views": 14,
-    "videos": 11,
-    "long": {
-     "n": 39,
-     "views": 23,
-     "likes": 0,
-     "comments": 0
-    },
-    "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
-     "comments": 0
-    }
-   },
-   "arabic": {
-    "handle": "@mokhtasr_ar",
-    "subs": 32,
-    "views": 1497,
-    "videos": 79,
-    "long": {
-     "n": 77,
-     "views": 183,
-     "likes": 1,
-     "comments": 1
-    },
-    "shorts": {
-     "n": 2,
-     "views": 1730,
-     "likes": 85,
-     "comments": 1
-    }
-   },
-   "khmer": {
-    "handle": "@mokhtasr_km",
-    "subs": 0,
     "views": 1,
-    "videos": 13,
+    "videos": 25,
     "long": {
-     "n": 13,
+     "n": 24,
      "views": 1,
      "likes": 0,
      "comments": 0
     },
     "shorts": {
-     "n": 0,
-     "views": 0,
-     "likes": 0,
+     "n": 1,
+     "views": 16,
+     "likes": 1,
      "comments": 0
     }
    },
-   "italian": {
-    "handle": "@mokhtasr_it",
-    "subs": 0,
+   "spanish": {
+    "handle": "@mokhtasr_es",
+    "subs": 1,
     "views": 1,
     "videos": 3,
     "long": {
      "n": 8,
-     "views": 1,
+     "views": 2,
      "likes": 0,
      "comments": 0
     },
@@ -4545,19 +4581,19 @@
    }
   },
   "totals": {
-   "subs": 78,
-   "views": 2299,
+   "subs": 93,
+   "views": 2301,
    "long": {
-    "n": 613,
-    "views": 892,
-    "likes": 11,
+    "n": 697,
+    "views": 981,
+    "likes": 13,
     "comments": 4
    },
    "shorts": {
-    "n": 4,
-    "views": 1843,
-    "likes": 92,
-    "comments": 1
+    "n": 24,
+    "views": 3885,
+    "likes": 185,
+    "comments": 3
    }
   },
   "top_long": [
@@ -4565,7 +4601,7 @@
     "id": "CcIPqLASzC8",
     "title": "د الفاتحې سورت تفسیر په پښتو | المختصر فی تفسیر قرآن کریم",
     "lang": "pashto",
-    "views": 105,
+    "views": 106,
     "likes": 1,
     "comments": 0,
     "published": "2026-11-17"
@@ -4607,6 +4643,15 @@
     "published": "2026-11-12"
    },
    {
+    "id": "x-dZ_32BMCE",
+    "title": "د «المختصر فی تفسیر قرآن کریم» کتاب پېژندنه | پښتو تفسیر",
+    "lang": "pashto",
+    "views": 23,
+    "likes": 0,
+    "comments": 0,
+    "published": "2026-11-20"
+   },
+   {
     "id": "jc0-ng9gNZQ",
     "title": "Présentation d'« Al-Mukhtasar fi Tafsir al-Qur'an al-Karim » | Tafsir en français",
     "lang": "french",
@@ -4628,7 +4673,7 @@
     "id": "W3np2aTFM8o",
     "title": "Introduction to Al-Mukhtasar fi Tafsir al-Quran al-Karim | Quran Tafsir in English",
     "lang": "english",
-    "views": 16,
+    "views": 17,
     "likes": 0,
     "comments": 0,
     "published": "2026-11-14"
@@ -4643,13 +4688,22 @@
     "published": "2026-11-17"
    },
    {
-    "id": "gF_qZQkFPH4",
-    "title": "Sourate Al-Fâtiha (Prologue ou ouverture) – Tafsir en français | Al-Mukhtasar",
-    "lang": "french",
-    "views": 14,
-    "likes": 1,
+    "id": "pxmV4FPC424",
+    "title": "Gabatar da littafin «Al-Mukhtasar fi Tafsiril Kur'anil Karim» | Tafsiri da Hausa",
+    "lang": "hausa",
+    "views": 15,
+    "likes": 0,
     "comments": 0,
     "published": "2026-11-14"
+   },
+   {
+    "id": "r27ZP7SUldo",
+    "title": "Sourate Al-Fajr (L'aube) – Tafsir en français | Al-Mukhtasar",
+    "lang": "french",
+    "views": 15,
+    "likes": 0,
+    "comments": 0,
+    "published": "2026-11-21"
    },
    {
     "id": "sBlpA_thgnA",
@@ -4661,20 +4715,11 @@
     "published": "2026-11-12"
    },
    {
-    "id": "r27ZP7SUldo",
-    "title": "Sourate Al-Fajr (L'aube) – Tafsir en français | Al-Mukhtasar",
+    "id": "gF_qZQkFPH4",
+    "title": "Sourate Al-Fâtiha (Prologue ou ouverture) – Tafsir en français | Al-Mukhtasar",
     "lang": "french",
     "views": 14,
-    "likes": 0,
-    "comments": 0,
-    "published": "2026-11-21"
-   },
-   {
-    "id": "pxmV4FPC424",
-    "title": "Gabatar da littafin «Al-Mukhtasar fi Tafsiril Kur'anil Karim» | Tafsiri da Hausa",
-    "lang": "hausa",
-    "views": 14,
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
     "published": "2026-11-14"
    },
@@ -4686,15 +4731,6 @@
     "likes": 0,
     "comments": 0,
     "published": "2026-11-13"
-   },
-   {
-    "id": "ay4W8f2VymM",
-    "title": "Sourate At-Takwîr (L'obscurcissement) – Tafsir en français | Al-Mukhtasar",
-    "lang": "french",
-    "views": 12,
-    "likes": 0,
-    "comments": 0,
-    "published": "2026-11-14"
    }
   ],
   "top_shorts": [
@@ -4702,8 +4738,8 @@
     "id": "mJjeSQsXQ0c",
     "title": "تفسير سورة الضحى مكتوب ومسموع (مرئي) | المختصر في تفسير القرآن الكريم #Shorts",
     "lang": "arabic",
-    "views": 1421,
-    "likes": 71,
+    "views": 1667,
+    "likes": 84,
     "comments": 1,
     "published": "2026-11-23"
    },
@@ -4711,19 +4747,82 @@
     "id": "PebL4Bs7DBg",
     "title": "سورة الضحى مع التفسير مكتوبة ومسموعة (مرئي) | المختصر في تفسير القرآن الكريم #Shorts",
     "lang": "arabic",
-    "views": 309,
-    "likes": 14,
+    "views": 420,
+    "likes": 17,
     "comments": 0,
     "published": "2026-11-23"
+   },
+   {
+    "id": "1vDPmdHc6qE",
+    "title": "அத்தியாயம்: அல் இஃக்லாஸ் (உளத்தூய்மை) — தமிழ் தஃப்ஸீர் (தெளிவுரை) | அல்-முக்தஸர் #Shorts",
+    "lang": "tamil",
+    "views": 377,
+    "likes": 19,
+    "comments": 0,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "-iwTSnXPKZQ",
+    "title": "تفسير سورة الشرح مكتوب ومسموع (مرئي) | المختصر في تفسير القرآن الكريم #Shorts",
+    "lang": "arabic",
+    "views": 367,
+    "likes": 23,
+    "comments": 0,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "VZzatBx3bB4",
+    "title": "تفسیر سوره الضحی به فارسی | المختصر فی تفسیر قرآن کریم #Shorts",
+    "lang": "persian",
+    "views": 250,
+    "likes": 5,
+    "comments": 0,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "KRxx_MBm6Bg",
+    "title": "سورۃ الضحیٰ — اردو تفسیر | المختصر فی تفسیر القرآن الکریم #Shorts",
+    "lang": "urdu",
+    "views": 201,
+    "likes": 11,
+    "comments": 0,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "QVipmC_KU7I",
+    "title": "سورة الشرح مع التفسير مكتوبة ومسموعة (مرئي) | المختصر في تفسير القرآن الكريم #Shorts",
+    "lang": "arabic",
+    "views": 195,
+    "likes": 12,
+    "comments": 2,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "3ZfDV3JnjQU",
+    "title": "Сура «Ад-Духа» («Утро») — тафсир на русском | Мухтасар тафсир #Shorts",
+    "lang": "russian",
+    "views": 152,
+    "likes": 6,
+    "comments": 0,
+    "published": "2026-11-24"
    },
    {
     "id": "3nSh-rTT-rk",
     "title": "تفسير ﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾ بخمس لغات | Al-Ikhlas 112:1 in 5 languages #Shorts",
     "lang": "portal",
-    "views": 73,
+    "views": 75,
     "likes": 5,
     "comments": 0,
     "published": "2026-11-23"
+   },
+   {
+    "id": "HxX5LSv7wAk",
+    "title": "تەفسیری سورەتی الفاتحة بە کوردی | المختصر في تفسير القرآن الكريم #Shorts",
+    "lang": "kurdish",
+    "views": 75,
+    "likes": 0,
+    "comments": 0,
+    "published": "2026-11-24"
    },
    {
     "id": "PYgwadrHgl4",
@@ -4733,13 +4832,121 @@
     "likes": 2,
     "comments": 0,
     "published": "2026-11-23"
+   },
+   {
+    "id": "oPdCoi6nwRc",
+    "title": "Тафсири сураи «Фотиҳа» ба забони тоҷикӣ | Тафсири Мухтасар #Shorts",
+    "lang": "tajik",
+    "views": 30,
+    "likes": 0,
+    "comments": 0,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "JaByRuxrX9Y",
+    "title": "Sourate Ad-Duhâ (Le jour montant) – Tafsir en français | Al-Mukhtasar #Shorts",
+    "lang": "french",
+    "views": 18,
+    "likes": 0,
+    "comments": 0,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "O_rM6vUKfzc",
+    "title": "Kafirun surəsi təfsiri (Azərbaycan dilində) | Muxtasar Təfsir #Shorts",
+    "lang": "azerbaijani",
+    "views": 16,
+    "likes": 1,
+    "comments": 0,
+    "published": "2026-11-24"
+   },
+   {
+    "id": "DtPhVOngE0k",
+    "title": "የ-አድ- ዱሓ ምዕራፍ ተፍሲር በአማርኛ | አል-ሙኽተሰር #Shorts",
+    "lang": "amharic",
+    "views": 1,
+    "likes": 0,
+    "comments": 0,
+    "published": "2026-11-24"
    }
   ],
   "surah": {
+   "88": {
+    "n": 27,
+    "views": 21,
+    "likes": 1,
+    "comments": 0
+   },
+   "87": {
+    "n": 26,
+    "views": 10,
+    "likes": 0,
+    "comments": 0
+   },
+   "86": {
+    "n": 27,
+    "views": 11,
+    "likes": 0,
+    "comments": 0
+   },
+   "85": {
+    "n": 27,
+    "views": 52,
+    "likes": 1,
+    "comments": 0
+   },
+   "84": {
+    "n": 28,
+    "views": 17,
+    "likes": 0,
+    "comments": 0
+   },
+   "83": {
+    "n": 28,
+    "views": 23,
+    "likes": 1,
+    "comments": 0
+   },
+   "82": {
+    "n": 34,
+    "views": 20,
+    "likes": 0,
+    "comments": 0
+   },
+   "81": {
+    "n": 34,
+    "views": 32,
+    "likes": 0,
+    "comments": 0
+   },
+   "80": {
+    "n": 34,
+    "views": 39,
+    "likes": 2,
+    "comments": 1
+   },
+   "79": {
+    "n": 34,
+    "views": 90,
+    "likes": 2,
+    "comments": 1
+   },
+   "78": {
+    "n": 34,
+    "views": 35,
+    "likes": 1,
+    "comments": 0
+   },
+   "112": {
+    "n": 31,
+    "views": 96,
+    "likes": 0,
+    "comments": 1
+   },
    "1": {
     "n": 44,
-    "views": 213,
-    "likes": 3,
+    "views": 225,
+    "likes": 4,
     "comments": 1
    },
    "108": {
@@ -4779,166 +4986,100 @@
     "comments": 0
    },
    "102": {
-    "n": 6,
+    "n": 7,
     "views": 2,
     "likes": 0,
     "comments": 0
    },
    "101": {
-    "n": 6,
+    "n": 7,
     "views": 2,
     "likes": 0,
     "comments": 0
    },
    "100": {
-    "n": 6,
+    "n": 8,
     "views": 2,
     "likes": 0,
     "comments": 0
    },
    "99": {
-    "n": 6,
+    "n": 8,
     "views": 0,
     "likes": 0,
     "comments": 0
    },
    "98": {
-    "n": 6,
-    "views": 10,
-    "likes": 0,
-    "comments": 0
-   },
-   "97": {
-    "n": 7,
-    "views": 3,
-    "likes": 0,
-    "comments": 0
-   },
-   "96": {
-    "n": 7,
-    "views": 1,
-    "likes": 0,
-    "comments": 0
-   },
-   "95": {
-    "n": 8,
-    "views": 0,
-    "likes": 0,
-    "comments": 0
-   },
-   "94": {
-    "n": 8,
-    "views": 10,
-    "likes": 0,
-    "comments": 0
-   },
-   "93": {
     "n": 9,
-    "views": 8,
-    "likes": 1,
-    "comments": 0
-   },
-   "92": {
-    "n": 10,
     "views": 17,
     "likes": 0,
     "comments": 0
    },
-   "91": {
-    "n": 10,
-    "views": 9,
-    "likes": 0,
-    "comments": 0
-   },
-   "90": {
+   "97": {
     "n": 10,
     "views": 5,
     "likes": 0,
     "comments": 0
    },
-   "89": {
-    "n": 13,
-    "views": 30,
+   "96": {
+    "n": 10,
+    "views": 4,
     "likes": 0,
     "comments": 0
    },
-   "88": {
-    "n": 17,
+   "95": {
+    "n": 10,
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   },
+   "94": {
+    "n": 10,
+    "views": 10,
+    "likes": 0,
+    "comments": 0
+   },
+   "93": {
+    "n": 15,
     "views": 11,
     "likes": 1,
     "comments": 0
    },
-   "86": {
-    "n": 25,
-    "views": 6,
-    "likes": 0,
-    "comments": 0
-   },
-   "85": {
-    "n": 26,
-    "views": 52,
-    "likes": 1,
-    "comments": 0
-   },
-   "84": {
-    "n": 27,
+   "92": {
+    "n": 16,
     "views": 17,
     "likes": 0,
     "comments": 0
    },
-   "83": {
-    "n": 27,
-    "views": 22,
-    "likes": 1,
-    "comments": 0
-   },
-   "82": {
-    "n": 34,
-    "views": 18,
+   "91": {
+    "n": 19,
+    "views": 12,
     "likes": 0,
     "comments": 0
    },
-   "81": {
-    "n": 34,
-    "views": 29,
+   "90": {
+    "n": 20,
+    "views": 6,
     "likes": 0,
     "comments": 0
    },
-   "80": {
-    "n": 34,
-    "views": 39,
-    "likes": 2,
-    "comments": 1
-   },
-   "79": {
-    "n": 34,
-    "views": 88,
-    "likes": 2,
-    "comments": 1
-   },
-   "78": {
-    "n": 34,
-    "views": 34,
+   "89": {
+    "n": 25,
+    "views": 31,
     "likes": 0,
     "comments": 0
    },
    "114": {
     "n": 9,
-    "views": 7,
+    "views": 9,
     "likes": 0,
     "comments": 0
    },
    "113": {
     "n": 9,
-    "views": 4,
+    "views": 5,
     "likes": 0,
     "comments": 0
-   },
-   "112": {
-    "n": 31,
-    "views": 94,
-    "likes": 0,
-    "comments": 1
    },
    "111": {
     "n": 9,
@@ -4948,19 +5089,13 @@
    },
    "109": {
     "n": 9,
-    "views": 6,
+    "views": 7,
     "likes": 0,
     "comments": 0
    },
    "110": {
     "n": 9,
     "views": 4,
-    "likes": 0,
-    "comments": 0
-   },
-   "87": {
-    "n": 19,
-    "views": 10,
     "likes": 0,
     "comments": 0
    }
