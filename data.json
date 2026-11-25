@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-25 11:19:38",
+ "built": "2026-11-25 11:32:07",
  "date": "25 نوفمبر 2026",
  "pub": [
   {
@@ -86,7 +86,7 @@
    "dir": "rtl",
    "iso": "fa",
    "kind": "tts",
-   "n": 28,
+   "n": 30,
    "playlist": "PLJ5HfAzlqzZU",
    "fatiha": "f-rRdpvLFXQ",
    "intro": "1D9mbpnob0s",
@@ -101,7 +101,7 @@
    "dir": "rtl",
    "iso": "ku",
    "kind": "silent",
-   "n": 28,
+   "n": 30,
    "playlist": "PLHx-sjdB0aN4",
    "fatiha": "uogfpMvwCG4",
    "intro": null,
@@ -116,7 +116,7 @@
    "dir": "ltr",
    "iso": "az",
    "kind": "tts",
-   "n": 26,
+   "n": 28,
    "playlist": "PLaNgAORQS4yY",
    "fatiha": "38TwGFPQYvc",
    "intro": "wyjjV7rxDlM",
@@ -131,7 +131,7 @@
    "dir": "ltr",
    "iso": "bn",
    "kind": "tts",
-   "n": 26,
+   "n": 28,
    "playlist": "PLJzym6E7S7uI",
    "fatiha": "E5fVZUMV0iA",
    "intro": "3w9IyQO_Hxo",
@@ -146,7 +146,7 @@
    "dir": "ltr",
    "iso": "am",
    "kind": "tts",
-   "n": 25,
+   "n": 27,
    "playlist": "PLOE9IEvq_0o0",
    "fatiha": "OZeNk4hFJjc",
    "intro": "P_YY5Grc3OQ",
@@ -161,7 +161,7 @@
    "dir": "ltr",
    "iso": "en",
    "kind": "dar",
-   "n": 25,
+   "n": 27,
    "playlist": "PLDYJqpiT6JFU",
    "fatiha": "HkcQUjN-N-M",
    "intro": "W3np2aTFM8o",
@@ -176,7 +176,7 @@
    "dir": "ltr",
    "iso": "bs",
    "kind": "tts",
-   "n": 21,
+   "n": 23,
    "playlist": "PLOrUE1gkBIEc",
    "fatiha": "71Oxa_LgPO0",
    "intro": "qWHO0C5G3Xo",
@@ -191,7 +191,7 @@
    "dir": "ltr",
    "iso": "zh",
    "kind": "tts",
-   "n": 21,
+   "n": 23,
    "playlist": "PLBC-M9nMzjeg",
    "fatiha": "Nw1wSR1YJ-g",
    "intro": "KbDMM-6WjBA",
@@ -206,11 +206,26 @@
    "dir": "ltr",
    "iso": "nl",
    "kind": "tts",
-   "n": 21,
+   "n": 23,
    "playlist": "PLayAWM3u50hs",
    "fatiha": "wHjdMmyNhQo",
    "intro": "mm-EQvn-FF8",
    "thumb": "wHjdMmyNhQo",
+   "ready": true
+  },
+  {
+   "code": "japanese",
+   "ar": "اليابانية",
+   "native": "日本語",
+   "handle": "@mokhtasr_ja",
+   "dir": "ltr",
+   "iso": "ja",
+   "kind": "tts",
+   "n": 23,
+   "playlist": "PLGI_7x46HYC8",
+   "fatiha": "u8fmaMDV6wg",
+   "intro": "nArWSa0k5so",
+   "thumb": "u8fmaMDV6wg",
    "ready": true
   },
   {
@@ -221,7 +236,7 @@
    "dir": "ltr",
    "iso": "de",
    "kind": "tts",
-   "n": 20,
+   "n": 22,
    "playlist": "PLbSFpGoqv0fY",
    "fatiha": "GrW3p2BaA_M",
    "intro": "sMk3-un0Eqk",
@@ -236,26 +251,11 @@
    "dir": "ltr",
    "iso": "tl",
    "kind": "tts",
-   "n": 20,
+   "n": 22,
    "playlist": "PLIOXY1Rbzi98",
    "fatiha": "T6ILk46Iwvk",
    "intro": "JIqNMNpnuLw",
    "thumb": "T6ILk46Iwvk",
-   "ready": true
-  },
-  {
-   "code": "japanese",
-   "ar": "اليابانية",
-   "native": "日本語",
-   "handle": "@mokhtasr_ja",
-   "dir": "ltr",
-   "iso": "ja",
-   "kind": "tts",
-   "n": 20,
-   "playlist": "PLGI_7x46HYC8",
-   "fatiha": "u8fmaMDV6wg",
-   "intro": "nArWSa0k5so",
-   "thumb": "u8fmaMDV6wg",
    "ready": true
   },
   {
@@ -266,7 +266,7 @@
    "dir": "ltr",
    "iso": "km",
    "kind": "tts",
-   "n": 19,
+   "n": 21,
    "playlist": "PLZBqSPQuulaE",
    "fatiha": "9QrEPXnZrrc",
    "intro": "7wLoE20aqAs",
@@ -281,7 +281,7 @@
    "dir": "ltr",
    "iso": "ko",
    "kind": "tts",
-   "n": 18,
+   "n": 20,
    "playlist": "PLJivghJO6_l0",
    "fatiha": "TulQoCsNhkM",
    "intro": "NWLnB-lPm7w",
@@ -296,7 +296,7 @@
    "dir": "ltr",
    "iso": "ml",
    "kind": "tts",
-   "n": 18,
+   "n": 20,
    "playlist": "PLHYPsBbrklfY",
    "fatiha": "A_zyYAJRFfM",
    "intro": "tCn558fVYx8",
@@ -311,7 +311,7 @@
    "dir": "ltr",
    "iso": "ne",
    "kind": "tts",
-   "n": 18,
+   "n": 20,
    "playlist": "PLUNVy9abxz0k",
    "fatiha": "6d2NsnOfeFs",
    "intro": "jmdcl7NPwkk",
@@ -326,7 +326,7 @@
    "dir": "ltr",
    "iso": "pt",
    "kind": "tts",
-   "n": 17,
+   "n": 19,
    "playlist": "PLPpunjjO1PkE",
    "fatiha": "NY2H_au6Y48",
    "intro": "J4o0CV1W_2w",
@@ -341,11 +341,41 @@
    "dir": "ltr",
    "iso": "sr",
    "kind": "tts",
-   "n": 17,
+   "n": 19,
    "playlist": "PLExhOrvpGjyg",
    "fatiha": "pZv0-D45m-Y",
    "intro": "dw0iMfIQ8tM",
    "thumb": "pZv0-D45m-Y",
+   "ready": true
+  },
+  {
+   "code": "tamil",
+   "ar": "التاميلية",
+   "native": "தமிழ்",
+   "handle": "@mokhtasr_ta",
+   "dir": "ltr",
+   "iso": "ta",
+   "kind": "tts",
+   "n": 18,
+   "playlist": "PLaPPd2Rgu-Kk",
+   "fatiha": "hLNFZkH36i4",
+   "intro": "8h29eKdsmvY",
+   "thumb": "hLNFZkH36i4",
+   "ready": true
+  },
+  {
+   "code": "thai",
+   "ar": "التايلندية",
+   "native": "ไทย",
+   "handle": "@mokhtasr_th",
+   "dir": "ltr",
+   "iso": "th",
+   "kind": "tts",
+   "n": 18,
+   "playlist": "PLJ7Qi4D2Oyw8",
+   "fatiha": "Gf-gkymb5Tg",
+   "intro": "UwjuHCsEiME",
+   "thumb": "Gf-gkymb5Tg",
    "ready": true
   },
   {
@@ -364,33 +394,18 @@
    "ready": true
   },
   {
-   "code": "tamil",
-   "ar": "التاميلية",
-   "native": "தமிழ்",
-   "handle": "@mokhtasr_ta",
+   "code": "turkish",
+   "ar": "التركية",
+   "native": "Türkçe",
+   "handle": "@mokhtasr_tr",
    "dir": "ltr",
-   "iso": "ta",
+   "iso": "tr",
    "kind": "tts",
-   "n": 16,
-   "playlist": "PLaPPd2Rgu-Kk",
-   "fatiha": "hLNFZkH36i4",
-   "intro": "8h29eKdsmvY",
-   "thumb": "hLNFZkH36i4",
-   "ready": true
-  },
-  {
-   "code": "thai",
-   "ar": "التايلندية",
-   "native": "ไทย",
-   "handle": "@mokhtasr_th",
-   "dir": "ltr",
-   "iso": "th",
-   "kind": "tts",
-   "n": 16,
-   "playlist": "PLJ7Qi4D2Oyw8",
-   "fatiha": "Gf-gkymb5Tg",
-   "intro": "UwjuHCsEiME",
-   "thumb": "Gf-gkymb5Tg",
+   "n": 15,
+   "playlist": "PLECTblZYvlAU",
+   "fatiha": "lI7yPmOrDbg",
+   "intro": "DQl2TbNByNU",
+   "thumb": "lI7yPmOrDbg",
    "ready": true
   },
   {
@@ -406,21 +421,6 @@
    "fatiha": "hbi4Y1PBw8g",
    "intro": "pXxoaCo75ZE",
    "thumb": "hbi4Y1PBw8g",
-   "ready": true
-  },
-  {
-   "code": "turkish",
-   "ar": "التركية",
-   "native": "Türkçe",
-   "handle": "@mokhtasr_tr",
-   "dir": "ltr",
-   "iso": "tr",
-   "kind": "tts",
-   "n": 13,
-   "playlist": "PLECTblZYvlAU",
-   "fatiha": "lI7yPmOrDbg",
-   "intro": "DQl2TbNByNU",
-   "thumb": "lI7yPmOrDbg",
    "ready": true
   },
   {
@@ -1123,6 +1123,14 @@
     "Leux2fJ1Ibs"
    ],
    [
+    88,
+    "lzRjl8gT9uw"
+   ],
+   [
+    89,
+    "ZtzTktOcpXw"
+   ],
+   [
     112,
     "G9NqSL__SF0"
    ]
@@ -1613,6 +1621,14 @@
    [
     100,
     "R5Dk0Oyr3hk"
+   ],
+   [
+    101,
+    "7649W7AFBxY"
+   ],
+   [
+    102,
+    "qeri_udGafo"
    ]
   ],
   "french": [
@@ -2009,6 +2025,14 @@
     "n1N9IDdF_Eo"
    ],
    [
+    97,
+    "FKkuHawpp-s"
+   ],
+   [
+    98,
+    "eipMg2WWf1U"
+   ],
+   [
     109,
     "NYkjOk7sE08"
    ],
@@ -2113,6 +2137,14 @@
    [
     95,
     "OIR1uIpDC2U"
+   ],
+   [
+    96,
+    "mWONM97I1Ow"
+   ],
+   [
+    97,
+    "8Kk7rGdEkAA"
    ],
    [
     109,
@@ -2305,6 +2337,14 @@
    [
     104,
     "R0V0RToWQzM"
+   ],
+   [
+    105,
+    "resqXL7uejU"
+   ],
+   [
+    106,
+    "5iIxYbuT5KE"
    ]
   ],
   "amharic": [
@@ -2405,6 +2445,14 @@
     "p6NH1XC88fk"
    ],
    [
+    100,
+    "hongdJ99VGY"
+   ],
+   [
+    101,
+    "eUKlaNRFu0s"
+   ],
+   [
     112,
     "erW1v0l0HOc"
    ]
@@ -2489,6 +2537,14 @@
    [
     95,
     "A6D60VldEUs"
+   ],
+   [
+    96,
+    "s4Fg7ZqzX8M"
+   ],
+   [
+    97,
+    "1As_9VHSSa0"
    ],
    [
     112,
@@ -2577,6 +2633,14 @@
     "h-33WtJmlcM"
    ],
    [
+    96,
+    "MqG-n35ud5s"
+   ],
+   [
+    97,
+    "XnaI_05tIfQ"
+   ],
+   [
     112,
     "hTqifkC7Aa0"
    ]
@@ -2663,6 +2727,14 @@
     "EvDRi6v60nQ"
    ],
    [
+    96,
+    "Vf4s0g-LgZs"
+   ],
+   [
+    97,
+    "pf-3iu-mofg"
+   ],
+   [
     112,
     "ncQ-iZPR0fY"
    ]
@@ -2745,6 +2817,14 @@
     "slaiemVoR2k"
    ],
    [
+    95,
+    "fabGcRSg4Jg"
+   ],
+   [
+    96,
+    "j_HRQGBwlfw"
+   ],
+   [
     112,
     "aCsmY80twTo"
    ]
@@ -2825,6 +2905,14 @@
    [
     94,
     "U10toy5mraE"
+   ],
+   [
+    95,
+    "1gwnm6EJf5Y"
+   ],
+   [
+    96,
+    "tRGI3KkbAA4"
    ],
    [
     112,
@@ -2941,6 +3029,14 @@
     "FPEMPt4QmiM"
    ],
    [
+    104,
+    "qaNn57JBKcE"
+   ],
+   [
+    105,
+    "HOn63eZLgwI"
+   ],
+   [
     112,
     "xOUbls4Injo"
    ]
@@ -3015,6 +3111,14 @@
     "evzcaXK1_iY"
    ],
    [
+    93,
+    "mjbLRRR7E_Q"
+   ],
+   [
+    94,
+    "Qa0lS6f7V18"
+   ],
+   [
     112,
     "B4Vm6jKXuyw"
    ]
@@ -3087,6 +3191,14 @@
    [
     92,
     "JYEF4b2Qybw"
+   ],
+   [
+    93,
+    "cIToSPEtwvo"
+   ],
+   [
+    94,
+    "ey3Vc_pD0t4"
    ],
    [
     112,
@@ -3193,6 +3305,14 @@
     "OMVRU4ZdC2w"
    ],
    [
+    92,
+    "gkwbSTZDAco"
+   ],
+   [
+    93,
+    "itntZZdPsIY"
+   ],
+   [
     112,
     "oReImbZkSFc"
    ]
@@ -3261,6 +3381,14 @@
    [
     91,
     "Jsc6C7yilaU"
+   ],
+   [
+    92,
+    "-JoLdPWgYd4"
+   ],
+   [
+    93,
+    "1ckzx3R2jPg"
    ],
    [
     112,
@@ -3431,6 +3559,14 @@
     "qM-z_7JhvwY"
    ],
    [
+    91,
+    "19ydRYtMVXI"
+   ],
+   [
+    92,
+    "35Y7rQEo3eI"
+   ],
+   [
     112,
     "ISVUysKQTI0"
    ]
@@ -3547,6 +3683,18 @@
     "IJx9MXpW9GQ"
    ],
    [
+    95,
+    "LV46VnILnx4"
+   ],
+   [
+    96,
+    "bXE-J52YFRE"
+   ],
+   [
+    97,
+    "_w_-SOP0Ctg"
+   ],
+   [
     112,
     "tXd0D90Phsw"
    ]
@@ -3621,6 +3769,14 @@
     "O-hjDf_Ea8Q"
    ],
    [
+    93,
+    "cY8mR4RwLFc"
+   ],
+   [
+    94,
+    "6xDMnx2lfXY"
+   ],
+   [
     112,
     "6jTU68nSECQ"
    ]
@@ -3685,6 +3841,14 @@
    [
     90,
     "4JNhikkPzMk"
+   ],
+   [
+    91,
+    "7EA_GCuHdzQ"
+   ],
+   [
+    92,
+    "7RZKXNYJbgQ"
    ],
    [
     112,
@@ -3763,6 +3927,14 @@
    [
     93,
     "TvXQEmWZhqk"
+   ],
+   [
+    94,
+    "XU_8KFPtYYo"
+   ],
+   [
+    95,
+    "BWXZlx8Txqk"
    ],
    [
     112,
