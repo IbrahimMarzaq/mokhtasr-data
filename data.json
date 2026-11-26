@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-26 11:20:18",
+ "built": "2026-11-26 11:38:25",
  "date": "26 نوفمبر 2026",
  "pub": [
   {
@@ -523,9 +523,9 @@
    "kind": "tts",
    "n": 4,
    "playlist": "PLDpH9_Gjb4p8",
-   "fatiha": "ho09rCHTCQs",
+   "fatiha": "9SfWKwxsD3Q",
    "intro": "nsuwkSqAblI",
-   "thumb": "ho09rCHTCQs",
+   "thumb": "9SfWKwxsD3Q",
    "ready": true
   },
   {
@@ -568,9 +568,9 @@
    "kind": "tts",
    "n": 3,
    "playlist": "PLQoe4XH4xU5I",
-   "fatiha": "D6Gj38nJxJg",
+   "fatiha": "6dIvGPLuUoM",
    "intro": "Y79yNdsrlPE",
-   "thumb": "D6Gj38nJxJg",
+   "thumb": "6dIvGPLuUoM",
    "ready": true
   },
   {
@@ -4074,7 +4074,7 @@
    ],
    [
     1,
-    "D6Gj38nJxJg"
+    "6dIvGPLuUoM"
    ],
    [
     112,
@@ -4088,7 +4088,7 @@
    ],
    [
     1,
-    "ho09rCHTCQs"
+    "9SfWKwxsD3Q"
    ],
    [
     78,
