@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-27 11:15:03",
+ "built": "2026-11-27 11:30:49",
  "date": "27 نوفمبر 2026",
  "pub": [
   {
@@ -16,6 +16,21 @@
    "fatiha": "duiilMWiURs",
    "intro": "QJ9DGQvnvc4",
    "thumb": "duiilMWiURs",
+   "ready": true
+  },
+  {
+   "code": "english",
+   "ar": "الإنجليزية",
+   "native": "English",
+   "handle": "@mokhtasr_en",
+   "dir": "ltr",
+   "iso": "en",
+   "kind": "dar",
+   "n": 39,
+   "playlist": "PLDYJqpiT6JFU",
+   "fatiha": "HkcQUjN-N-M",
+   "intro": "W3np2aTFM8o",
+   "thumb": "HkcQUjN-N-M",
    "ready": true
   },
   {
@@ -64,6 +79,21 @@
    "ready": true
   },
   {
+   "code": "amharic",
+   "ar": "الأمهرية",
+   "native": "አማርኛ",
+   "handle": "@mokhtasr_am",
+   "dir": "ltr",
+   "iso": "am",
+   "kind": "tts",
+   "n": 38,
+   "playlist": "PLOE9IEvq_0o0",
+   "fatiha": "OZeNk4hFJjc",
+   "intro": "P_YY5Grc3OQ",
+   "thumb": "OZeNk4hFJjc",
+   "ready": true
+  },
+  {
    "code": "russian",
    "ar": "الروسية",
    "native": "Русский",
@@ -86,7 +116,7 @@
    "dir": "rtl",
    "iso": "ku",
    "kind": "silent",
-   "n": 37,
+   "n": 38,
    "playlist": "PLHx-sjdB0aN4",
    "fatiha": "uogfpMvwCG4",
    "intro": null,
@@ -94,33 +124,48 @@
    "ready": true
   },
   {
-   "code": "amharic",
-   "ar": "الأمهرية",
-   "native": "አማርኛ",
-   "handle": "@mokhtasr_am",
+   "code": "chinese",
+   "ar": "الصينية",
+   "native": "中文",
+   "handle": "@mokhtasr_zh",
    "dir": "ltr",
-   "iso": "am",
+   "iso": "zh",
    "kind": "tts",
-   "n": 34,
-   "playlist": "PLOE9IEvq_0o0",
-   "fatiha": "OZeNk4hFJjc",
-   "intro": "P_YY5Grc3OQ",
-   "thumb": "OZeNk4hFJjc",
+   "n": 35,
+   "playlist": "PLBC-M9nMzjeg",
+   "fatiha": "Nw1wSR1YJ-g",
+   "intro": "KbDMM-6WjBA",
+   "thumb": "Nw1wSR1YJ-g",
    "ready": true
   },
   {
-   "code": "english",
-   "ar": "الإنجليزية",
-   "native": "English",
-   "handle": "@mokhtasr_en",
+   "code": "japanese",
+   "ar": "اليابانية",
+   "native": "日本語",
+   "handle": "@mokhtasr_ja",
    "dir": "ltr",
-   "iso": "en",
-   "kind": "dar",
-   "n": 34,
-   "playlist": "PLDYJqpiT6JFU",
-   "fatiha": "HkcQUjN-N-M",
-   "intro": "W3np2aTFM8o",
-   "thumb": "HkcQUjN-N-M",
+   "iso": "ja",
+   "kind": "tts",
+   "n": 35,
+   "playlist": "PLGI_7x46HYC8",
+   "fatiha": "u8fmaMDV6wg",
+   "intro": "nArWSa0k5so",
+   "thumb": "u8fmaMDV6wg",
+   "ready": true
+  },
+  {
+   "code": "korean",
+   "ar": "الكورية",
+   "native": "한국어",
+   "handle": "@mokhtasr_ko",
+   "dir": "ltr",
+   "iso": "ko",
+   "kind": "tts",
+   "n": 32,
+   "playlist": "PLJivghJO6_l0",
+   "fatiha": "TulQoCsNhkM",
+   "intro": "NWLnB-lPm7w",
+   "thumb": "TulQoCsNhkM",
    "ready": true
   },
   {
@@ -136,36 +181,6 @@
    "fatiha": "f-rRdpvLFXQ",
    "intro": "1D9mbpnob0s",
    "thumb": "f-rRdpvLFXQ",
-   "ready": true
-  },
-  {
-   "code": "chinese",
-   "ar": "الصينية",
-   "native": "中文",
-   "handle": "@mokhtasr_zh",
-   "dir": "ltr",
-   "iso": "zh",
-   "kind": "tts",
-   "n": 30,
-   "playlist": "PLBC-M9nMzjeg",
-   "fatiha": "Nw1wSR1YJ-g",
-   "intro": "KbDMM-6WjBA",
-   "thumb": "Nw1wSR1YJ-g",
-   "ready": true
-  },
-  {
-   "code": "japanese",
-   "ar": "اليابانية",
-   "native": "日本語",
-   "handle": "@mokhtasr_ja",
-   "dir": "ltr",
-   "iso": "ja",
-   "kind": "tts",
-   "n": 30,
-   "playlist": "PLGI_7x46HYC8",
-   "fatiha": "u8fmaMDV6wg",
-   "intro": "nArWSa0k5so",
-   "thumb": "u8fmaMDV6wg",
    "ready": true
   },
   {
@@ -199,18 +214,18 @@
    "ready": true
   },
   {
-   "code": "korean",
-   "ar": "الكورية",
-   "native": "한국어",
-   "handle": "@mokhtasr_ko",
+   "code": "hausa",
+   "ar": "الهوسا",
+   "native": "Hausa",
+   "handle": "@mokhtasr_ha",
    "dir": "ltr",
-   "iso": "ko",
-   "kind": "tts",
-   "n": 27,
-   "playlist": "PLJivghJO6_l0",
-   "fatiha": "TulQoCsNhkM",
-   "intro": "NWLnB-lPm7w",
-   "thumb": "TulQoCsNhkM",
+   "iso": "ha",
+   "kind": "dar",
+   "n": 28,
+   "playlist": "PLM8YcLVvFrUs",
+   "fatiha": "MGzcWkwP4dg",
+   "intro": "pxmV4FPC424",
+   "thumb": "MGzcWkwP4dg",
    "ready": true
   },
   {
@@ -271,21 +286,6 @@
    "fatiha": "T6ILk46Iwvk",
    "intro": "JIqNMNpnuLw",
    "thumb": "T6ILk46Iwvk",
-   "ready": true
-  },
-  {
-   "code": "hausa",
-   "ar": "الهوسا",
-   "native": "Hausa",
-   "handle": "@mokhtasr_ha",
-   "dir": "ltr",
-   "iso": "ha",
-   "kind": "dar",
-   "n": 23,
-   "playlist": "PLM8YcLVvFrUs",
-   "fatiha": "MGzcWkwP4dg",
-   "intro": "pxmV4FPC424",
-   "thumb": "MGzcWkwP4dg",
    "ready": true
   },
   {
@@ -424,6 +424,21 @@
    "ready": true
   },
   {
+   "code": "akan",
+   "ar": "الأكانية",
+   "native": "Akan",
+   "handle": "@mokhtasr_ak",
+   "dir": "ltr",
+   "iso": "ak",
+   "kind": "silent",
+   "n": 11,
+   "playlist": "PLGuzPWKD8vMs",
+   "fatiha": "w6OMqXL0G5I",
+   "intro": null,
+   "thumb": "w6OMqXL0G5I",
+   "ready": true
+  },
+  {
    "code": "spanish",
    "ar": "الإسبانية",
    "native": "Español",
@@ -499,21 +514,6 @@
    "ready": true
   },
   {
-   "code": "akan",
-   "ar": "الأكانية",
-   "native": "Akan",
-   "handle": "@mokhtasr_ak",
-   "dir": "ltr",
-   "iso": "ak",
-   "kind": "silent",
-   "n": 7,
-   "playlist": "PLGuzPWKD8vMs",
-   "fatiha": "w6OMqXL0G5I",
-   "intro": null,
-   "thumb": "w6OMqXL0G5I",
-   "ready": true
-  },
-  {
    "code": "fulani",
    "ar": "الفلاتية",
    "native": "Fulfulde",
@@ -521,11 +521,26 @@
    "dir": "ltr",
    "iso": "ff",
    "kind": "silent",
-   "n": 6,
+   "n": 8,
    "playlist": "PLaL4oR3N8SNU",
    "fatiha": "tYBuRxTtreY",
    "intro": null,
    "thumb": "tYBuRxTtreY",
+   "ready": true
+  },
+  {
+   "code": "yoruba",
+   "ar": "اليوربا",
+   "native": "Yorùbá",
+   "handle": "@mokhtasr_yo",
+   "dir": "ltr",
+   "iso": "yo",
+   "kind": "silent",
+   "n": 5,
+   "playlist": "PLRaXykLzZBik",
+   "fatiha": "Ox6NTBHU_Z8",
+   "intro": null,
+   "thumb": "Ox6NTBHU_Z8",
    "ready": true
   },
   {
@@ -571,21 +586,6 @@
    "fatiha": "2tYgh-trAas",
    "intro": null,
    "thumb": "2tYgh-trAas",
-   "ready": true
-  },
-  {
-   "code": "yoruba",
-   "ar": "اليوربا",
-   "native": "Yorùbá",
-   "handle": "@mokhtasr_yo",
-   "dir": "ltr",
-   "iso": "yo",
-   "kind": "silent",
-   "n": 4,
-   "playlist": "PLRaXykLzZBik",
-   "fatiha": "Ox6NTBHU_Z8",
-   "intro": null,
-   "thumb": "Ox6NTBHU_Z8",
    "ready": true
   },
   {
@@ -1547,6 +1547,26 @@
    [
     99,
     "56lDeNxko_A"
+   ],
+   [
+    100,
+    "Qbx7v9edlWU"
+   ],
+   [
+    101,
+    "-IeADiE4Yus"
+   ],
+   [
+    102,
+    "fx9YJJLK5Rg"
+   ],
+   [
+    103,
+    "uRRxSaN0Coo"
+   ],
+   [
+    104,
+    "avg8DtrcAbc"
    ]
   ],
   "english": [
@@ -1685,6 +1705,26 @@
    [
     109,
     "mRfCz_x0a-s"
+   ],
+   [
+    110,
+    "_RaGPNXe7CY"
+   ],
+   [
+    111,
+    "55xrphq4E_8"
+   ],
+   [
+    112,
+    "VX3PIwwD9YY"
+   ],
+   [
+    113,
+    "jymrLmW4oQ4"
+   ],
+   [
+    114,
+    "5IpBcYs4xKQ"
    ]
   ],
   "french": [
@@ -2557,8 +2597,24 @@
     "GOCvCQiX9q0"
    ],
    [
+    109,
+    "9wmIuOq32sM"
+   ],
+   [
+    110,
+    "zgIdzq9fDGs"
+   ],
+   [
+    111,
+    "PIGvUv1LUWI"
+   ],
+   [
     112,
     "erW1v0l0HOc"
+   ],
+   [
+    113,
+    "DFQRmXY0t7A"
    ]
   ],
   "bosnian": [
@@ -2775,6 +2831,26 @@
    [
     104,
     "42dGqBP0U-8"
+   ],
+   [
+    105,
+    "WHINdpaXsd0"
+   ],
+   [
+    106,
+    "7u2m9xWymTA"
+   ],
+   [
+    107,
+    "QShHk2IAR0o"
+   ],
+   [
+    108,
+    "sCIpkzLk7Mo"
+   ],
+   [
+    109,
+    "phNqeK_2ZkY"
    ],
    [
     112,
@@ -3215,6 +3291,10 @@
    [
     113,
     "YD79FNtcKkc"
+   ],
+   [
+    114,
+    "UHK9eUM0unE"
    ]
   ],
   "malayalam": [
@@ -3935,6 +4015,26 @@
     "o9oJUJEYgYE"
    ],
    [
+    105,
+    "Vs5ruhu-vXQ"
+   ],
+   [
+    106,
+    "_rorOC0C99Q"
+   ],
+   [
+    107,
+    "pdPGM9Kyey8"
+   ],
+   [
+    108,
+    "-tqL67dbgVE"
+   ],
+   [
+    109,
+    "ejPC-Ed0yBw"
+   ],
+   [
     112,
     "tXd0D90Phsw"
    ]
@@ -4043,6 +4143,26 @@
    [
     101,
     "xBRR-RSP9z4"
+   ],
+   [
+    102,
+    "WDU12VjevdA"
+   ],
+   [
+    103,
+    "atZrYtVOLEE"
+   ],
+   [
+    104,
+    "Miw2atqE5kA"
+   ],
+   [
+    105,
+    "WIsgB3xTDMc"
+   ],
+   [
+    106,
+    "9TjBk-U4WfU"
    ],
    [
     112,
@@ -4313,6 +4433,10 @@
     "i3FYs33aq0c"
    ],
    [
+    85,
+    "JI2vTIpfjFk"
+   ],
+   [
     112,
     "aGEKdsIGiCM"
    ]
@@ -4341,6 +4465,22 @@
    [
     84,
     "NlmQXtiqflw"
+   ],
+   [
+    85,
+    "UGr9nFkwxJE"
+   ],
+   [
+    86,
+    "fOSDbHU3W6E"
+   ],
+   [
+    87,
+    "ehCxjxzFID0"
+   ],
+   [
+    88,
+    "d1acy2C7CAQ"
    ],
    [
     112,
@@ -4395,6 +4535,14 @@
    [
     84,
     "yCHeoA16sfg"
+   ],
+   [
+    85,
+    "fEI6jGieofg"
+   ],
+   [
+    86,
+    "ifgqyoj3Czk"
    ],
    [
     112,
