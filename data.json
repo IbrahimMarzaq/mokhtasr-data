@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-28 11:30:53",
+ "built": "2026-11-28 14:07:48",
  "date": "28 نوفمبر 2026",
  "pub": [
   {
@@ -161,7 +161,7 @@
    "dir": "ltr",
    "iso": "ja",
    "kind": "tts",
-   "n": 37,
+   "n": 38,
    "playlist": "PLGI_7x46HYC8",
    "fatiha": "u8fmaMDV6wg",
    "intro": "nArWSa0k5so",
@@ -176,7 +176,7 @@
    "dir": "ltr",
    "iso": "ko",
    "kind": "tts",
-   "n": 34,
+   "n": 35,
    "playlist": "PLJivghJO6_l0",
    "fatiha": "TulQoCsNhkM",
    "intro": "NWLnB-lPm7w",
@@ -4105,6 +4105,10 @@
    [
     112,
     "tXd0D90Phsw"
+   ],
+   [
+    113,
+    "CjFdaCII29g"
    ]
   ],
   "korean": [
@@ -4239,6 +4243,10 @@
    [
     108,
     "7Z5sADtxqQA"
+   ],
+   [
+    109,
+    "ukfoIWvx_Is"
    ],
    [
     112,
