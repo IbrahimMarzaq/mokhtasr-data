@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-28 11:16:05",
+ "built": "2026-11-28 11:26:01",
  "date": "28 نوفمبر 2026",
  "pub": [
   {
@@ -304,6 +304,21 @@
    "ready": true
   },
   {
+   "code": "akan",
+   "ar": "الأكانية",
+   "native": "Akan",
+   "handle": "@mokhtasr_ak",
+   "dir": "ltr",
+   "iso": "ak",
+   "kind": "silent",
+   "n": 21,
+   "playlist": "PLGuzPWKD8vMs",
+   "fatiha": "w6OMqXL0G5I",
+   "intro": null,
+   "thumb": "w6OMqXL0G5I",
+   "ready": true
+  },
+  {
    "code": "malayalam",
    "ar": "المليالمية",
    "native": "മലയാളം",
@@ -331,21 +346,6 @@
    "fatiha": "6d2NsnOfeFs",
    "intro": "jmdcl7NPwkk",
    "thumb": "6d2NsnOfeFs",
-   "ready": true
-  },
-  {
-   "code": "akan",
-   "ar": "الأكانية",
-   "native": "Akan",
-   "handle": "@mokhtasr_ak",
-   "dir": "ltr",
-   "iso": "ak",
-   "kind": "silent",
-   "n": 20,
-   "playlist": "PLGuzPWKD8vMs",
-   "fatiha": "w6OMqXL0G5I",
-   "intro": null,
-   "thumb": "w6OMqXL0G5I",
    "ready": true
   },
   {
@@ -409,6 +409,21 @@
    "ready": true
   },
   {
+   "code": "fulani",
+   "ar": "الفلاتية",
+   "native": "Fulfulde",
+   "handle": "@mokhtasr_ff",
+   "dir": "ltr",
+   "iso": "ff",
+   "kind": "silent",
+   "n": 18,
+   "playlist": "PLaL4oR3N8SNU",
+   "fatiha": "tYBuRxTtreY",
+   "intro": null,
+   "thumb": "tYBuRxTtreY",
+   "ready": true
+  },
+  {
    "code": "turkish",
    "ar": "التركية",
    "native": "Türkçe",
@@ -421,21 +436,6 @@
    "fatiha": "lI7yPmOrDbg",
    "intro": "DQl2TbNByNU",
    "thumb": "lI7yPmOrDbg",
-   "ready": true
-  },
-  {
-   "code": "fulani",
-   "ar": "الفلاتية",
-   "native": "Fulfulde",
-   "handle": "@mokhtasr_ff",
-   "dir": "ltr",
-   "iso": "ff",
-   "kind": "silent",
-   "n": 16,
-   "playlist": "PLaL4oR3N8SNU",
-   "fatiha": "tYBuRxTtreY",
-   "intro": null,
-   "thumb": "tYBuRxTtreY",
    "ready": true
   },
   {
@@ -461,11 +461,71 @@
    "dir": "ltr",
    "iso": "yo",
    "kind": "silent",
-   "n": 10,
+   "n": 15,
    "playlist": "PLRaXykLzZBik",
    "fatiha": "Ox6NTBHU_Z8",
    "intro": null,
    "thumb": "Ox6NTBHU_Z8",
+   "ready": true
+  },
+  {
+   "code": "uyghur",
+   "ar": "الأويغورية",
+   "native": "ئۇيغۇرچە",
+   "handle": "@mokhtasr_ug",
+   "dir": "rtl",
+   "iso": "ug",
+   "kind": "silent",
+   "n": 14,
+   "playlist": "PLXLQlUcP4pZs",
+   "fatiha": "noMKe3BWtfE",
+   "intro": null,
+   "thumb": "noMKe3BWtfE",
+   "ready": true
+  },
+  {
+   "code": "tajik",
+   "ar": "الطاجيكية",
+   "native": "Тоҷикӣ",
+   "handle": "@mokhtasr_tg",
+   "dir": "ltr",
+   "iso": "tg",
+   "kind": "silent",
+   "n": 14,
+   "playlist": "PLdR8O4yOqOG8",
+   "fatiha": "2tYgh-trAas",
+   "intro": null,
+   "thumb": "2tYgh-trAas",
+   "ready": true
+  },
+  {
+   "code": "luganda",
+   "ar": "اللوغندية",
+   "native": "Luganda",
+   "handle": "@mokhtasr_lg",
+   "dir": "ltr",
+   "iso": "lg",
+   "kind": "silent",
+   "n": 13,
+   "playlist": "PLZ5kPUlx_9MI",
+   "fatiha": "cZCxDgBCeGY",
+   "intro": null,
+   "thumb": "cZCxDgBCeGY",
+   "ready": true
+  },
+  {
+   "code": "malagasy",
+   "ar": "الملغاشية",
+   "native": "Malagasy",
+   "handle": "@mokhtasr_mg",
+   "dir": "ltr",
+   "iso": "mg",
+   "kind": "silent",
+   "n": 13,
+   "playlist": "PLV77hDsqiS8s",
+   "fatiha": "aCaK9cocdrA",
+   "intro": null,
+   "thumb": "aCaK9cocdrA",
    "ready": true
   },
   {
@@ -544,51 +604,6 @@
    "ready": true
   },
   {
-   "code": "uyghur",
-   "ar": "الأويغورية",
-   "native": "ئۇيغۇرچە",
-   "handle": "@mokhtasr_ug",
-   "dir": "rtl",
-   "iso": "ug",
-   "kind": "silent",
-   "n": 7,
-   "playlist": "PLXLQlUcP4pZs",
-   "fatiha": "noMKe3BWtfE",
-   "intro": null,
-   "thumb": "noMKe3BWtfE",
-   "ready": true
-  },
-  {
-   "code": "tajik",
-   "ar": "الطاجيكية",
-   "native": "Тоҷикӣ",
-   "handle": "@mokhtasr_tg",
-   "dir": "ltr",
-   "iso": "tg",
-   "kind": "silent",
-   "n": 7,
-   "playlist": "PLdR8O4yOqOG8",
-   "fatiha": "2tYgh-trAas",
-   "intro": null,
-   "thumb": "2tYgh-trAas",
-   "ready": true
-  },
-  {
-   "code": "luganda",
-   "ar": "اللوغندية",
-   "native": "Luganda",
-   "handle": "@mokhtasr_lg",
-   "dir": "ltr",
-   "iso": "lg",
-   "kind": "silent",
-   "n": 6,
-   "playlist": "PLZ5kPUlx_9MI",
-   "fatiha": "cZCxDgBCeGY",
-   "intro": null,
-   "thumb": "cZCxDgBCeGY",
-   "ready": true
-  },
-  {
    "code": "albanian",
    "ar": "الألبانية",
    "native": "Shqip",
@@ -631,21 +646,6 @@
    "fatiha": "6dIvGPLuUoM",
    "intro": "Y79yNdsrlPE",
    "thumb": "6dIvGPLuUoM",
-   "ready": true
-  },
-  {
-   "code": "malagasy",
-   "ar": "الملغاشية",
-   "native": "Malagasy",
-   "handle": "@mokhtasr_mg",
-   "dir": "ltr",
-   "iso": "mg",
-   "kind": "silent",
-   "n": 3,
-   "playlist": "PLV77hDsqiS8s",
-   "fatiha": "aCaK9cocdrA",
-   "intro": null,
-   "thumb": "aCaK9cocdrA",
    "ready": true
   }
  ],
@@ -4485,6 +4485,34 @@
     "-GDZnbwVew0"
    ],
    [
+    91,
+    "Rf5a6NMpv5o"
+   ],
+   [
+    92,
+    "wuvByhwuxv0"
+   ],
+   [
+    93,
+    "J_5q3FEiZWg"
+   ],
+   [
+    94,
+    "DT_ZMfKAH3U"
+   ],
+   [
+    95,
+    "OOo7O7wmFK4"
+   ],
+   [
+    96,
+    "o04mNBLrgPM"
+   ],
+   [
+    97,
+    "puXLpFDZncw"
+   ],
+   [
     112,
     "ceaGq0tlLI8"
    ]
@@ -4513,6 +4541,34 @@
    [
     90,
     "pVCJutFqKlo"
+   ],
+   [
+    91,
+    "f2m-wjbkV7c"
+   ],
+   [
+    92,
+    "z-5pGydtgvw"
+   ],
+   [
+    93,
+    "vApeXEdcmlY"
+   ],
+   [
+    94,
+    "EGr-1lDcw7k"
+   ],
+   [
+    95,
+    "Q2jpCiS-ZHQ"
+   ],
+   [
+    96,
+    "WHqPiyuFgXU"
+   ],
+   [
+    97,
+    "8_oP3bm6Yhk"
    ],
    [
     112,
@@ -4555,6 +4611,26 @@
    [
     91,
     "s7XxqWFY_cQ"
+   ],
+   [
+    92,
+    "WHMFUSb68vU"
+   ],
+   [
+    93,
+    "yoZz0_0GWFA"
+   ],
+   [
+    94,
+    "5bUeFHBl_kg"
+   ],
+   [
+    95,
+    "x5ErPZo4n_U"
+   ],
+   [
+    96,
+    "mnEEApURLRI"
    ],
    [
     112,
@@ -4639,6 +4715,10 @@
     "2tbCwc8aBvk"
    ],
    [
+    98,
+    "3c5ZuV24sy0"
+   ],
+   [
     112,
     "F25AX7E3Iq8"
    ]
@@ -4651,6 +4731,46 @@
    [
     78,
     "kTLxhqbbSwI"
+   ],
+   [
+    94,
+    "9f3wPMLiLCo"
+   ],
+   [
+    97,
+    "_1iZNgiW8LI"
+   ],
+   [
+    103,
+    "hQFCA2WxO1c"
+   ],
+   [
+    104,
+    "aaw_T8FWi-w"
+   ],
+   [
+    105,
+    "CDbsvslIT_Y"
+   ],
+   [
+    106,
+    "ItHSgAkAEfc"
+   ],
+   [
+    107,
+    "8qq7WwKs_VI"
+   ],
+   [
+    108,
+    "95IjadBEex4"
+   ],
+   [
+    109,
+    "H37c6JWwaro"
+   ],
+   [
+    110,
+    "oI1DOCbWw24"
    ],
    [
     112,
@@ -4677,6 +4797,34 @@
    [
     90,
     "omkEEC_R-F4"
+   ],
+   [
+    91,
+    "48TLBbWlnj8"
+   ],
+   [
+    92,
+    "nd56NFCmM5g"
+   ],
+   [
+    93,
+    "DgJHdBKPznw"
+   ],
+   [
+    94,
+    "svYIiJHQRAk"
+   ],
+   [
+    95,
+    "qOx0bOLlh0c"
+   ],
+   [
+    97,
+    "2B7iWI_Qkk4"
+   ],
+   [
+    98,
+    "hO1MsAli2Q0"
    ],
    [
     112,
@@ -4743,6 +4891,14 @@
    [
     94,
     "2cuyW1Ny4Nc"
+   ],
+   [
+    95,
+    "WK7GUGvHC8E"
+   ],
+   [
+    96,
+    "EsJSCYtxA5s"
    ],
    [
     112,
